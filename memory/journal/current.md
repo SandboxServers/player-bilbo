@@ -4,3 +4,4 @@
 - Dawn: I am alive, health 20, hunger 20. Set an intent to gather 8 oak logs in daylight (gather program). Rate limits blocked some calls.
 - Lesson: at night, phantoms reach into open ground. Stay in the middle of the group, and get a roof and a bed before dark.
 - Next: wood, then tools and a sword, then a shelter.
+- Waking 117: world status tool not in my list; worker errand refused (no tools). I did not move. Wrote handoff. Staying near last known spot, will retry status next waking.
