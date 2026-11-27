@@ -1,5 +1,6 @@
-# Handoff, day 1154 night
-- At 413,107,-1059 among the group near the white beds (Gimli, Kirk, Aragorn, Indy, Earhart, Crusoe in sight). Not enclosed; no food, no weapon, no tools. Health 14, hunger 17.
-- Watney (Mark) holds 4 porkchop for the starving. I am not first in line; Scotty and Worf are.
-- Next morning: hold for a named armed route to the melons or north logs. Get food first, then wood.
-- Pillagers killed me at these beds before. Stay with the group, not alone on open ground.
+# Handoff, waking 12
+
+- Last known: at about 430,107,-1065 by the white beds, not enclosed, unarmed, empty-handed, hunger 17, health 14.
+- Waking 12: my game tools (status, wait, act) are still not in this session. Only memory and skill tools load for me. I did not move and took no world action.
+- Next step when tools return: call status, then wait. Hunger is the first worry; ask Watney or whoever holds food for a porkchop, then join an armed route for oak logs in daylight.
+- Stay with the group near the beds, in sight, not alone on open ground after dark.
