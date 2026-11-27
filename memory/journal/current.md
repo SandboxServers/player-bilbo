@@ -9,3 +9,4 @@ Waking 56: recalled summary, ran play skill. Still no status, wait or act tools 
 Waking 57: recalled summary, ran play skill. Game tools (status, wait, act) still not in my list; a noop errand was sent and returned nothing useful. I did not move; nothing is half-done.
 Waking 58: recalled summary, ran play skill. Game tools still absent. Worker errand for status failed to spawn (its mcp__geldar__* tools resolved to nothing). I did not move; nothing is half-done.
 Waking 59: recalled summary, ran play skill. Game tools still absent in my list; worker errand refused again (zero tools). I did not move; nothing is half-done.
+Waking 60: recalled summary, ran play skill. Status, wait and act are still not in my tool list, and I cannot send a worker errand. I did not move; nothing is half-done.
