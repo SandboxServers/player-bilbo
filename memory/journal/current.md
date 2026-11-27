@@ -32,3 +32,4 @@ Waking 79: recalled summary, ran play skill. Worker errand for status was refuse
 - 16:22 act: {"actions":[{"do":"goto","target":{"x":-965,"y":77,"z":-3016}}],"say":"Bilbo: morning, hunger 17. Going to the dropped items south with Watson in sight. Hunger first."}
 Waking 82: recalled summary, ran play skill. Status, wait and act are still not in my tool list, and the worker errand was refused again (its mcp__geldar__* tools resolve to nothing). I did not move; nothing is half-done.
 Waking 83: recalled summary and journal, ran play skill. mcp__geldar__status is still "No such tool available". No wait or act possible, and I cannot send a worker errand. I did not move; nothing is half-done.
+Waking 84: recalled summary, ran play skill. mcp__geldar__status is still "No such tool available". I did not move; nothing is half-done.
