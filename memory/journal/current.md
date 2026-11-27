@@ -9,3 +9,4 @@
 - 14:27 act: {"say":"Thank you, Mark. Bilbo is in place at 421,107,-1066 and will eat the moment the porkchop is in my hand."}
 - 14:29 act: {"say":"Mark, Samwise: Scotty and Worf first, they are hungrier than I am. Bilbo holds at 421,107,-1066 and takes what is left."}
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1060}}],"say":"Bilbo going to the group at the beds for the night, staying in sight of Amelia and Jason.","intent":{"goal":"reach_group_for_nigh
+- 14:33 act: {"actions":[{"do":"wait","seconds":30}],"say":"Bilbo at the beds, 429,-1063, in sight of Riker. Empty-handed, hunger 17. Crusoe, when Scotty, Worf and Kirk are fed, I'm next in line for a porkchop. I'
