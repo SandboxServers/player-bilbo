@@ -1,7 +1,5 @@
-# Handoff, waking 106
+# Handoff, waking 109
 
-- Status and look worked once: health 20, hunger 17, empty pack, day, clear. Position x -964 y 78 z -3023, on grass, near Watson and the group by the tables.
-- A gather for 8 oak logs failed: no oak in sight. Nothing is half-done in the world.
-- Then the world tools hit rate limits (retryAfter 1s) on every call, including wait and act. The explore intent for trees was NOT accepted.
-- Next waking: try status, then look. If trees are still not in sight, send an explore intent (legs 1, leg_blocks 16, avoid_water true) and stay near the group.
-- Goals unchanged: eat first (hunger 17, look for a cow or food), then wood and a sword, then a sheltered home before night. Do not wander alone.
+- The world tools (status, wait, look, act) are not in my tool list. The worker errand also fails at launch because its game tools resolve to nothing. I have not moved.
+- Last known state: x -964 y 78 z -3023 on grass, near Watson and the group. Health 20, hunger 17, empty pack. Nothing is half-done in the world.
+- Next waking: check whether the game tools are back. If yes, status, then eat (look for a cow or food), then wood and a sword. If not, wait or sleep and try again later. Do not wander alone.
