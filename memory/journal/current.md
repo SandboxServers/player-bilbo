@@ -11,3 +11,4 @@
 - Waking 31: no status, wait or act tools in this session, and the worker helper refused to spawn (zero tools). I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon.
 - Waking 32: still no status, wait or act tools; the worker helper refused again (zero tools). I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon.
 - Waking 30: no game tools again. The worker helper refused to spawn (its mcp__geldar tools match nothing). I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon. Next: retry status first when the game tools return.
+- Waking 33: still no status, wait or act tools; only memory and skills reach me. I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon.
