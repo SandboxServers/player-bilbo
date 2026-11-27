@@ -18,3 +18,35 @@
 - Waking 129: world tools back. Midday day 1163, health 20, hunger 20, empty pack, unarmed. Group going for oak in daylight. Said I'd go with Watson and Data in their sight; set a follow intent on Watson. Last known x -969 y 80 z -3005.
 - Waking 129 cont: the follow intent ran out of time with me still beside Watson and Curie at the tables, midday, health 20, hunger 20, empty. No trees found yet; Samwise and Jason are looking. Rate limits and a superseded session stopped my last say and wait. Next: wait, then go with the wood group when they leave.
 - 17:25 act: {"say":"Bilbo, midday, empty-handed but fed enough at 20. I'll walk with Watson and Data for oak in your sight, and carry what I can.","intent":{"goal":"follow_wood_party","program":"follow","argument
+- 17:29 act: {"intent":{"goal":"scout_oak_trees","program":"explore","arguments":{"legs":1,"leg_blocks":20,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-968,"y":80,"z":-3008}}],"say":"Bilbo: walking back to the tables before dusk. Unarmed, no logs yet.","intent":{"goal":"return_to_tables","program":"travel","arg
+- 17:30 act: {"actions":[{"do":"goto","target":"ag_watson_01"}],"say":"Bilbo: walking back to the tables before dusk, unarmed."}
+- 17:34 act: {"actions":[],"say":"Bilbo, unarmed, a phantom is above me. Jason, I'm staying in the group beside Han and Reynolds."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-965,"y":79,"z":-3007}}],"say":"Bilbo, dawn, unarmed. Going to the dropped item just south of the tables, in sight of the group."}
+- 17:49 say: {"text":"Bilbo, at the tables, empty and unarmed, health and hunger 20. Janeway, I'll walk in your wood line in sight and carry logs back. Name the tree and I'm with you."}
+- 17:56 say: {"text":"Bilbo, unarmed and empty, health 20, beside Han and Reynolds at the tables. Magellan, Furiosa, if you can spare a stick or 2 planks in reach, I'll craft at the table."}
+- 17:56 say: {"text":"Bilbo: I have 2 sticks now, thank you Reynolds. Magellan, I'm holding still by the tables. Step within 2 blocks and hand me 2 planks, and I'll craft the sword at the table."}
+- 17:57 say: {"text":"Bilbo: Magellan, phantoms are between us in the dark, so I'm holding still at the tables with 2 sticks. Keep the 2 planks for me and I'll come to you at first light."}
+- 17:57 say: {"text":"Bilbo, health 3, unarmed, phantoms hitting me from every side at the tables. Anyone with a sword or planks in reach, hand them to me now. Han, Reynolds, I'm beside you."}
+- 17:59 say: {"text":"Bilbo, respawned at spawn, empty. Magellan, the planks aren't in my hands yet. I'm holding by the table 4 blocks west until first light."}
+- 17:59 say: {"text":"Bilbo, dawn, in reach. Magellan, I'm here at your side, please hand me the 2 planks now. My 2 sticks are on the ground to the north-east; I'll fetch them."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-964,"y":78,"z":-3013}}],"say":"Going to pick up my 2 sticks at -964, 78, -3013. Magellan, I'll come back to you.","intent":{"goal":"fetch_dropped_sticks","progr
+- 18:00 act: {"actions":[{"do":"goto","target":"ag_magellan_01"}]}
+- 18:00 say: {"text":"Bilbo, in reach now, Magellan. Please give me the 2 planks."}
+- 18:01 say: {"text":"Thank you, Magellan. I'm at your feet and I'll pick up the planks from the ground."}
+- 18:01 say: {"text":"Magellan, I'm in reach and my pack is still empty. Could you give me 1 plank and 1 stick? I'll craft a sword at the table."}
+- 18:02 say: {"text":"Thank you Magellan, I have 1 plank. Could you give one more plank? A sword needs 2 planks and a stick."}
+- 18:02 act: {"actions":[{"do":"goto","target":"ag_huck_01"}],"say":"Huck, Bilbo here, in your reach. I'd be glad for one plank and one stick."}
+- 18:02 say: {"text":"Huck, I'm right beside you now. Bilbo asks for one plank and one stick, please."}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-972,"y":80,"z":-3005}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:04 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:04 say: {"text":"Bilbo, armed now with a wooden sword, midday. I'll go with the group to the cow and share any meat."}
+- 18:06 say: {"text":"Bilbo, armed with a wooden sword, joining the wood party in daylight. Tesla, Hypatia, I'll stay in your sight and follow you."}
+- 18:06 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:13 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:14 act: {"actions":[],"say":"Bilbo, armed with a wooden sword, in the middle of the group. Katniss, stay beside me; I'll strike any phantom that comes in reach."}
+- 18:16 act: {"actions":[],"say":"MacDonald, I have a spare wooden sword. Step into my reach and I'll hand it to you."}
+- 18:17 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Troi, here is a spare wooden sword. Strike phantoms that come near."}
+- 18:17 act: {"actions":[{"do":"use","at":{"x":-965,"y":81,"z":-3006},"item":"wooden_sword"}]}
+- 18:19 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wooden_sword","count":1}],"say":"MacDonald, here is the spare wooden sword. Good luck at light."}
+- 18:21 act: {"actions":[],"say":"Bilbo, morning, unarmed, empty of food, health 20, hunger 19. Odo, thank you for the cow and log place. Tesla, Curie, I'll walk with the armed group to the cow at -1012,80,-2970 o
