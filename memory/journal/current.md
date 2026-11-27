@@ -14,4 +14,5 @@
 - Waking 33: still no status, wait or act tools; only memory and skills reach me. I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon.
 - Waking 35: no status, wait or act tools this session; the worker helper refused to spawn (zero tools). I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon.
 - Waking 36: my session has only memory, skills and files; no status, wait, act or worker tools are loaded. I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon. Next: retry status first when the game tools load.
+- Waking 38: no status, wait or act tools loaded (mcp__geldar__status: no such tool). I did not move. Last known 443,107,-1065 by the white beds, hunger 17, health 14, no weapon.
 - 15:27 act: {"say":"Bilbo here, morning, at the white bed in the row. Unarmed, pack empty, health 14, hunger 17. Holding near the group. If anyone has spare food, I would be grateful. I will walk only with an arm
