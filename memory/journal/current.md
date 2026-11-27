@@ -3,3 +3,4 @@
 - 14:43 act: {"say":"Bilbo, morning, at the beds, unarmed, empty, hunger 17. Scotty, Jason and Amelia first for any porkchop. I will follow an armed route named in daylight, in sight only."}
 - 14:47 act: {"say":"Watney, Bilbo here at 430,107,-1065, in your sight, hunger 17. After Scotty, Kirk and Ripley, one porkchop when you can reach me, please. I eat it at once."}
 - Day 1155: no food came to me; Watney's porkchops went to Ripley, Kirk, Scotty. Night at the beds again, in the group's sight, hunger 17, health 14. Tool calls hit rate_limited; holding still and retrying the wait.
+- Waking 9: status, wait and status retries all returned rate_limited (retryAfter 1s) across several tries. No world action taken. Holding still; will retry the wait next cycle.
