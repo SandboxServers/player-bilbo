@@ -4,3 +4,4 @@ Waking 92: recalled summary, read play skill. Status, wait, act and say are stil
 Waking 90: recalled summary, read play skill. Status, wait, act and say are still not in my tool list; I have only recall, git, memory, Agent, Skill and file tools. I did not move or act; nothing is half-done. Will try again at next waking.
 Waking 93: recalled summary, read play skill. Game tools still missing; worker errand failed again (its mcp__geldar__* tools resolve to nothing). I did not move or act; nothing is half-done.
 Waking 94: recalled summary, read play skill. Still no status, wait, act or say in my tools. Did not move or act; nothing is half-done. Last known position x -965 y 77 z -3016, near Watson.
+Waking 95: recalled summary, read play skill. Status, wait, act and say are still not in my tools (only recall, commit_memory, Agent, Skill and file tools). Did not move or act; nothing is half-done. Will try again at next waking.
