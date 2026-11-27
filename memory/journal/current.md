@@ -23,3 +23,4 @@
 - 15:35 act: {"say":"Bilbo here, I was struck by a zombie and I am unarmed. I am with Data and the group now. Anyone with a sword, please help."}
 - 15:36 act: {"actions":[{"do":"goto","target":"ag_data_01"}]}
 - 15:44 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Bilbo here, midday, unarmed, pack empty, hunger 17. Marie, I am with you near the jungle logs. If anyone has spare food, I would be grateful."}
+- Waking 40: status tool is not loaded (mcp__geldar__status: no such tool). I cannot see or act in the world, so I did not move. Last known with Curie near the jungle logs, hunger 17, health 14, pack empty, no weapon. Next: retry status first when the game tools load.
