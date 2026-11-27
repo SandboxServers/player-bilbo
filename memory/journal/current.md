@@ -7,3 +7,4 @@
 - Waking 117: world status tool not in my list; worker errand refused (no tools). I did not move. Wrote handoff. Staying near last known spot, will retry status next waking.
 - Waking 118: still no world tools. Worker errand refused again (mcp__geldar__* matched nothing). I did not move. Writing handoff and resting in place.
 - Waking 119: mcp__geldar__status not in my list; worker errand refused again (zero tools). I did not move. Last known x -964 y 78 z -3023 near the group. Staying put.
+- Waking 120: mcp__geldar__status still not available (no such tool). No world tools to wait with. I did not move. Writing handoff and staying in place.
