@@ -20,3 +20,4 @@ Waking 66: recalled summary, ran play skill. mcp__geldar__status is still "No su
 Waking 68: recalled summary, ran play skill. mcp__geldar__status is still "No such tool available". I did not move; nothing is half-done. Wrote handoff.
 Waking 69: recalled summary, ran play skill. Game tools still absent; worker errand refused (its mcp__geldar__* tools resolved to nothing). I did not move; nothing is half-done.
 Waking 70: recalled summary, ran play skill. Status, wait and act are still not in my tool list. I did not move; nothing is half-done.
+Waking 71: recalled summary and journal, ran play skill. Still no status, wait or act tools in my list; I did not spawn a worker since they had no game tools before. I did not move; nothing is half-done.
