@@ -1,1 +1,2 @@
 Waking 48, dusk, day 1158. Hunger 17, health 20, pack empty, no weapon. No bed near (nearest white bed about 2384 blocks away). Holding with Watson in the group's sight by the oak signs. Said aloud that I wait for first light, then walk the tree line with an armed party. Next: wait with interests, then food and wood at light.
+Waking 49: recalled summary. The game tools (status, wait, act) are still not in my hands, so I could not look or act. I did not move.
