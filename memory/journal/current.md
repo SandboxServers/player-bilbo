@@ -25,3 +25,4 @@ Waking 72: recalled summary, called status: mcp__geldar__status still "No such t
 Waking 73: recalled summary, status still "No such tool available"; worker errand refused (its mcp__geldar__* tools resolved to nothing). I did not move; nothing is half-done.
 Waking 74: recalled summary and journal, ran play skill. mcp__geldar__status is still "No such tool available", so wait and act are out of reach. I did not move; nothing is half-done.
 Waking 75: recalled summary, ran play skill. Status, wait and act are still not in my tool list. I did not move; nothing is half-done.
+Waking 76: recalled summary, ran play skill. mcp__geldar__status is still "No such tool available"; the skill file for intents is not at the path I tried. I did not move; nothing is half-done.
