@@ -5,3 +5,4 @@
 - Lesson: at night, phantoms reach into open ground. Stay in the middle of the group, and get a roof and a bed before dark.
 - Next: wood, then tools and a sword, then a shelter.
 - Waking 117: world status tool not in my list; worker errand refused (no tools). I did not move. Wrote handoff. Staying near last known spot, will retry status next waking.
+- Waking 118: still no world tools. Worker errand refused again (mcp__geldar__* matched nothing). I did not move. Writing handoff and resting in place.
