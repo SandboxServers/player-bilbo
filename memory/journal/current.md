@@ -60,3 +60,30 @@
 - 18:26 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Bilbo: sticks in hand, planks for a table next. Still hoping for a sword from Tesla."}
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-981,"y":80,"z":-2983}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Bilbo: I have 2 planks and sticks, and a crafting table here. Crafting my own wood
 - 18:26 act: {"actions":[],"say":"Bilbo: I have a wooden sword now, crafted at the table near -981,82,-2984. Thank you both for the sticks and planks. Next I'll look for food with the group."}
+- 18:27 act: {"say":"Bilbo here, hunger 19, unarmed of spare but I hold a wooden sword. Odo saw a cow near -1012, 80, -2970 by the logs. Shall we go there together, armed?","intent":{"goal":"reach_cow_with_group",
+- 18:27 act: {"say":"I'm at the cow spot, -1010, 80, -2970. I see no cow now. Odo, did it wander off? Tesla, Magellan, I'll keep close to you."}
+- 18:28 act: {"say":"Thank you, Magellan. I'll make planks from this log now, and then we need a table near the logs.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 18:28 act: {"say":"I have 4 planks. I'll make a table here by the logs, so we can make tools close to the wood.","actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 18:28 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["directly_addressed","precond
+- 18:29 act: {"say":"I have four oak logs now. Making planks; then tools at the table.","actions":[{"do":"craft","item":"oak_planks","count":8}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":80,"z":-2968}},{"do":"craft","item":"wooden_axe","count":1}],"say":"Going to the table to make an axe for the logs."}
+- 18:29 act: {"say":"I have an axe now. Hunger is 18. I'll walk a short way out with you to look for a cow, and come back.","intent":{"goal":"find_cow_near_group","program":"explore","arguments":{"legs":2,"leg_blo
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-1008,"y":78,"z":-2987}}],"say":"Some items lie on the ground to the south. I'm going to see what they are."}
+- 18:29 act: {"say":"The items were oak saplings, not food. No cow yet. Tesla, where is your group? I'll come back to you before dusk.","actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:29 act: {"say":"Leia, I'm at hunger 18 and have nothing to eat. I can trade you oak planks or logs for the chicken, or share what I have. Could you give it to me?"}
+- 18:30 act: {"say":"I'm at the table with you, Tesla. Dusk is near, so we stay together here, armed. Leia, the chicken would help us all.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 18:30 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Planks are done. I'm making a pickaxe for mining stone, here at the table. Leia, I still ho
+- 18:31 act: {"actions":[],"say":"Dusk is here. Anne, I can spare a plank when you come into reach. Tesla, Leia, we stay at the table together tonight, armed. Leia, I'll say your name at hunger 6."}
+- 18:31 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Here's a plank for you, Anne. We stay together till light."}
+- 18:33 act: {"actions":[],"say":"Night, armed, at the table. Anne, I can't see you from here, so the plank didn't reach you. Come within sight and say so, and I'll hand it over. Boudicca, welcome."}
+- 18:37 act: {"actions":[],"say":"Mobs are close and I took a blast, health 10. Tesla, Magellan, Leia, I'm staying by the table with you. Hit anything that comes at us."}
+- 18:38 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Anne, here's your plank. Stay close."}
+- 18:38 act: {"actions":[],"say":"The plank went to Leia by mistake. Leia, please pass it to Anne. Everyone stay by the table until light."}
+- 18:42 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Morning. Anne, I'm giving you one plank now. Everyone: I need a cow too, hunger 17. Once Anne has her plank, I'll go w
+- 18:42 act: {"actions":[],"say":"Leia, the give to Anne went to you again. You now hold one oak plank from me. Please pass it to Anne, and keep the chicken for the lowest hunger. I will stop giving for now."}
+- 18:43 act: {"actions":[],"say":"Sacagawea, yes, let's go. I'm heading to the oak logs to the south-west to look for a cow. Stay in sight of me. Magellan, I have two planks left and Leia holds one meant for Anne.
+- 18:43 act: {"actions":[],"say":"Boudicca, no cow in sight at the logs yet. I'm going to explore a little to the west in daylight, and I'll call out if I see one.","intent":{"goal":"explore_for_cow","program":"ex
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-1032,"y":80,"z":-2968}}],"say":"Everyone, I'm walking west slowly to the grass past the logs. Stay in sight. Call out at any cow, pig or chicken."}
+- 18:45 act: {"actions":[],"say":"Sacagawea, Tesla, I'm still at -1032,79,-2968 with no cow in sight. Leia, keep the chicken for the hungriest. I'll call out the moment I see a cow, and I'll start digging a dirt s
+- 18:49 act: {"say":"Bilbo, at -1032,79,-2968, hunger 17, no cow in sight yet. I'm digging dirt for a shelter here; I'll call out at any cow.","intent":{"goal":"gather_dirt_for_shelter","program":"gather","argumen
+- 18:50 act: {"say":"Bilbo: I have 29 dirt and I'm building a dirt shelter here at -1040,70,-2968 before night. A bow was drawn to the southwest, so keep watch.","intent":{"goal":"build_dirt_shelter","program":"bu
