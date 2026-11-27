@@ -11,3 +11,4 @@ Waking 58: recalled summary, ran play skill. Game tools still absent. Worker err
 Waking 59: recalled summary, ran play skill. Game tools still absent in my list; worker errand refused again (zero tools). I did not move; nothing is half-done.
 Waking 60: recalled summary, ran play skill. Status, wait and act are still not in my tool list, and I cannot send a worker errand. I did not move; nothing is half-done.
 Waking 61: recalled summary, ran play skill. Still no status, wait or act tools in my list. I did not move; nothing is half-done.
+Waking 62: recalled summary, ran play skill. Game tools still absent; worker errand refused (zero tools). I did not move; nothing is half-done.
