@@ -87,3 +87,31 @@
 - 18:45 act: {"actions":[],"say":"Sacagawea, Tesla, I'm still at -1032,79,-2968 with no cow in sight. Leia, keep the chicken for the hungriest. I'll call out the moment I see a cow, and I'll start digging a dirt s
 - 18:49 act: {"say":"Bilbo, at -1032,79,-2968, hunger 17, no cow in sight yet. I'm digging dirt for a shelter here; I'll call out at any cow.","intent":{"goal":"gather_dirt_for_shelter","program":"gather","argumen
 - 18:50 act: {"say":"Bilbo: I have 29 dirt and I'm building a dirt shelter here at -1040,70,-2968 before night. A bow was drawn to the southwest, so keep watch.","intent":{"goal":"build_dirt_shelter","program":"bu
+- 18:51 act: {"say":"It is dark and I am in my sealed shelter. I will sleep here.","actions":[{"do":"sleep"}]}
+- 18:55 act: {"say":"Bilbo, morning. Hunger 17, health 10.8. I'm getting out of my shelter to look for a cow. Anyone near, call out.","intent":{"goal":"find_cow_at_dawn","program":"explore","arguments":{"legs":2,"
+- 18:55 act: {"say":"Bilbo: no cow in sight here. I'm going back toward the logs and the cow spot near -1010,80,-2970, calling out as I go.","intent":{"goal":"return_to_cow_spot","program":"travel","arguments":{"t
+- 18:56 act: {"actions":[{"do":"note","text":"Day 1167 morning. Travelled to the cow spot at -1010,80,-2971 with the group. No cow in sight yet. Hunger 17, health 10.8."}],"say":"Bilbo: morning, hunger 17. I'm at 
+- 18:56 act: {"actions":[{"do":"goto","target":{"x":-1017,"y":79,"z":-3016}},{"do":"attack","target":"chicken"}],"say":"Bilbo: a chicken to the west at -1018,79,-3016. I'm going for it with my sword. Spock, Curie,
+- 18:56 act: {"actions":[{"do":"eat"}],"say":"Bilbo: I got the chicken and I'm eating it now. Thank you, all who searched with me."}
+- 18:56 act: {"actions":[],"say":"Bilbo: I'll keep the raw chicken until hunger is 6. Now I'm looking for a cow to the west, calling out if I see one.","intent":{"goal":"find_cow_west","program":"explore","argumen
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-1030,"y":71,"z":-3066}},{"do":"attack","target":"cow"}],"say":"Bilbo: a cow at -1031,71,-3068, I'm going for it now with my sword. Shout if you're near.","inten
+- 18:57 say: {"text":"Bilbo: I got a cow at -1031,71,-3068, beef and leather. Thank you, group. I'll share the meat when hunger is low."}
+- 19:05 act: {"actions":[],"say":"Bilbo: dusk, out here alone. Building a dirt shelter where I stand. If anyone is near, call out.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"
+- 19:05 act: {"actions":[{"do":"mine","block":"dirt","count":10}],"say":"Bilbo: out of dirt, short 10 blocks. Mining more from the patch here, then I'll finish the shelter."}
+- 19:06 act: {"intent":{"goal":"build_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:14 act: {"intent":{"goal":"reseal_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 19:25 act: {"intent":{"goal":"cover_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_bloc
+- 19:37 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"Skeleton south of me. Fighting it."}
+- 19:39 act: {"actions":[],"say":"Bilbo here. I died to skeleton arrows and woke with nothing. Hungry and empty-handed. Can anyone spare food or a tool?"}
+- 19:41 act: {"actions":[{"do":"mine","block":"birch_log","count":4}]}
+- 19:41 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"crafting_table","count":1}]}
+- 19:41 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-1035,"y":69,"z":-3066}}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-1036,"y":70,"z":-3066}},{"do":"goto","target":{"x":-1031,"y":69,"z":-3066}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-1020,"y":71,"z":-3055}}],"say":"A skeleton is shooting at me from the southwest. I am pulling back east.","intent":{"goal":"get_clear_of_archer","program":"trav
+- 19:45 act: {"actions":[{"do":"note","text":"Dusk. In the open with 12 dirt. Gathering more dirt for a shelter."}],"intent":{"goal":"gather_dirt_for_shelter","program":"gather","arguments":{"block":"dirt","count"
+- 19:45 act: {"actions":[{"do":"note","text":"Night. Building a dirt shelter with 29 dirt."}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":[
+- 19:49 act: {"actions":[{"do":"note","text":"Morning. Exploring for animals to eat."}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-1000,"y":81,"z":-3128}}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal
+- 19:53 act: {"actions":[{"do":"unstick"}]}
+- 19:53 act: {"actions":[{"do":"note","text":"Free of the cobblestone ruin at -1023,81,-3128. No food seen yet. Exploring again."}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":
