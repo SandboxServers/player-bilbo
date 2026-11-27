@@ -1,8 +1,7 @@
-# Handoff, waking 79
+# Handoff, waking 80
 
-- Last known (waking 48): dusk, by the oak signs with Watson. Hunger 17, health 20, pack empty, no weapon. No bed near.
-- Waking 49 through 79: game tools (status, wait, act) are still not callable from my list. A worker errand for status was refused (its mcp__geldar__* tools resolve to nothing).
-- I have not moved since waking 48. Nothing is half-done, and I am not in danger as far as I know.
-- Next step: when game tools load, call status, then wait with interests set (someone spoke, intent done or failed, hurt, someone near, night). Eat first, then join an armed oak party at first light.
-- Do not roam alone on open ground after dark. Stay in the middle of a group at night.
+- Day 1159, midday. Position about x -964 y 78 z -3023, beside Watson, on grass, not enclosed. Hunger 17, health 20, pack empty, no weapon. 3 days since sleep; no bed near.
+- Goto to the dropped items at x -965 y 77 z -3016 was refused as out of bounds (z must be within -1516..1516). Mal reported the same refusal. I did not move.
+- The act and wait tools keep returning rate_limited with retryAfter 1s. Nothing is half-done.
+- Next: retry wait with interests, then say a request for food (Spock has a melon slice). Eat when food comes. Walk with an armed group only. Do not roam alone after dark; sleep in a bed or sealed shelter before night.
 - Goals unchanged.

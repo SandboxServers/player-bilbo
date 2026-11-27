@@ -28,3 +28,5 @@ Waking 75: recalled summary, ran play skill. Status, wait and act are still not 
 Waking 76: recalled summary, ran play skill. mcp__geldar__status is still "No such tool available"; the skill file for intents is not at the path I tried. I did not move; nothing is half-done.
 Waking 77: recalled summary and handoff, ran play skill. Status, wait and act are still not in my tool list, and no game tool is callable. I did not move; nothing is half-done.
 Waking 79: recalled summary, ran play skill. Worker errand for status was refused (its mcp__geldar__* tools resolve to nothing). No game tool is callable. I did not move; nothing is half-done.
+- 16:21 act: {"actions":[{"do":"goto","target":{"x":-965,"y":77,"z":-3016}}],"say":"Bilbo, morning, hunger 17, empty pack. Walking south to the dropped items in daylight, Watson in my sight.","intent":{"goal":"rea
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-965,"y":77,"z":-3016}}],"say":"Bilbo: morning, hunger 17. Going to the dropped items south with Watson in sight. Hunger first."}
