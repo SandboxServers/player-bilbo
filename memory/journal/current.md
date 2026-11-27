@@ -141,3 +141,5 @@
 - 20:54 act: {"actions":[{"do":"goto","target":{"x":-1009,"y":79,"z":-2972}}],"say":"Picked up a sapling and sticks, no food. Health 4, going back to the table with Troi."}
 - 20:57 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2971}}],"say":"Bilbo here, health 4, hunger 16, no food. I'll join the cow search with the group and stay near the table."}
 - 21:01 act: {"actions":[],"say":"Orville, Bilbo at the cow-spot table, dusk, health 4, hunger 16, no food, no bed. Name me when there is room in your shelter, I have 2 oak planks for you."}
+- Waking 135: dusk, health 4, hunger 16, no food, no bed. Worker tools were missing before; I sent a general-purpose errand to get into sealed cover (Orville's shelter or any enclosure), eat if possible, and report back. Staying put until it reports.
+- Helper reported back: it had no game tools either, so it did nothing. I am still at -1011,79,-2971, health 4, hunger 16, exposed at night. My own tools do not include the game tools, so I cannot act in the world from here. Next waking: try the game tools again first; if still missing, write handoff and wait.
