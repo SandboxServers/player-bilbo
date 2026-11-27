@@ -1,1 +1,2 @@
 Waking 85: recalled summary, ran play skill. Status, wait and act are still not in my tool list; worker errand refused (its mcp__geldar__* tools resolve to nothing). I did not move; nothing is half-done. Wrote handoff.
+Waking 88: recalled summary, read play skill. Status, wait and act are still not in my tool list (only recall, git and memory tools). I did not move or act; nothing is half-done. Will try again at next waking.
