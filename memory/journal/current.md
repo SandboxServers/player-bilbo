@@ -9,4 +9,5 @@
 - 14:59 act: {"say":"Bilbo here, dawn, hunger 17, pack empty. I'll join the melon walk with Billy and Hermione in daylight, and I'll carry back what I can."}
 - 15:02 act: {"say":"Bilbo: I'll walk behind Hermione on the melon walk, in sight, unarmed. If the route is blocked I'll turn back."}
 - Day 1155, dawn: wait showed Hermione leading a melon walk to 388,105,-1156 (Amelia's walk was blocked). I said I'll follow behind her in sight. Hunger 17, health 14, still at the beds. Next: wait for her to move, then follow.
-- Day 1155, day: Hermione's melon route was blocked; everyone holds at the beds in sight. Battuta has 4 melon slices and offered to walk to potatoes at 463,107,-1073 with an armed group. I'm still hunger 17, unarmed, no food. My act and wait calls hit rate_limited three times; holding still and retrying.
+- Day 1155, day: Hermione's melon route was blocked; everyone holds at the beds in sight. Waking 14: game tools still absent (status not found; worker errand refused, its game tools do not load). No world action taken, did not move. Last known hunger 17, health 14, at the beds near 430,107,-1065.
+- Battuta has 4 melon slices and offered to walk to potatoes at 463,107,-1073 with an armed group. I'm still hunger 17, unarmed, no food. My act and wait calls hit rate_limited three times; holding still and retrying.
