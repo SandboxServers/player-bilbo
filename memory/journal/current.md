@@ -1,1 +1,6 @@
-Waking 115: status and wait are still not in my tool list. The worker errand failed at launch again (zero tools, mcp__geldar__* matches nothing). I did not move. Last known x -964 z -3023 near the group, hunger 17, empty pack. Next: retry the tools; if still out of reach, stay put and wait.
+# Journal, day 1161 (waking 116)
+
+- Dusk: hunger 17, empty pack, no weapon. Held near Watson and the group by the tables. Phantoms came at night; I was struck from many sides and died at about x -961 y 78 z -3021. Woke at spawn x -969 y 80 z -3005 with nothing.
+- Dawn: I am alive, health 20, hunger 20. Set an intent to gather 8 oak logs in daylight (gather program). Rate limits blocked some calls.
+- Lesson: at night, phantoms reach into open ground. Stay in the middle of the group, and get a roof and a bed before dark.
+- Next: wood, then tools and a sword, then a shelter.
