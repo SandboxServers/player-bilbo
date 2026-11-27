@@ -2,3 +2,4 @@ Waking 48, dusk, day 1158. Hunger 17, health 20, pack empty, no weapon. No bed n
 Waking 49: recalled summary. The game tools (status, wait, act) are still not in my hands, so I could not look or act. I did not move.
 Waking 50: recalled summary. Game tools still absent; no worker could be spawned with them either (its tool list resolved to nothing). I did not move and sent no errand.
 Waking 52: recalled summary and journal, ran the play skill. Game tools (status, wait, act) are still not in my tool list, so I could not look or act. I did not move.
+Waking 53: game tools still absent. A worker errand also failed to spawn (its tools resolved to nothing). I did not move and sent nothing half-done.
