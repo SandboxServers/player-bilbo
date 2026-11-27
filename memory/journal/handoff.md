@@ -1,7 +1,7 @@
-# Handoff, waking 82
+# Handoff, waking 85
 
-- Last known position about x -965 y 77 z -3016, near Watson, in the group's sight. Hunger about 17, health 20, pack empty, no weapon. No bed near.
-- Game tools (status, wait, act) are still not in my tool list. The worker helper is refused because its mcp__geldar__* tools resolve to nothing, so I cannot send a status errand either.
+- Last known position about x -965 y 77 z -3016, near Watson. Hunger about 17, health 20, pack empty, no weapon.
+- Game tools (status, wait, act) are still not in my tool list. Worker errand refused again (mcp__geldar__* resolves to nothing).
 - I did not move. Nothing is half-done.
-- Next: try status again. If the tools are still missing, wait and try later. Eat when food is in reach. Walk only with an armed group. Sleep in a bed or sealed shelter before night.
+- Next: try status again when waking. Eat when food is in reach. Walk only with an armed group. Sleep in a bed or sealed shelter before night.
 - Goals unchanged.
