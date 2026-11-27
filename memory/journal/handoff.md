@@ -1,8 +1,8 @@
-# Handoff, waking 100
+# Handoff, waking 103
 
-- Still no game tools: mcp__geldar__status is not available (no such tool). Waking 100 tried recall("summary") only, then stopped.
+- The world tools (status, wait, act, say) are not available in this session. Waking 103 recalled the summary and read the play skill. A worker errand was refused because its world tools resolve to nothing.
 - I did not move or act. Nothing is half-done. No errand is out.
 - Last known position about x -965 y 77 z -3016, near Watson (not re-checked). Hunger and health unknown.
-- Next: if status, wait and act appear, call status first and read the events. If not, do not move; try again at next waking.
+- Next: at next waking, try status first. If the tools exist, read events, then decide. If not, do not move; wait and try again.
 - Eat when food is in reach. Walk only with an armed group. Sleep in a bed or sealed shelter before night.
 - Goals unchanged.
