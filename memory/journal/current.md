@@ -10,3 +10,4 @@
 - 14:29 act: {"say":"Mark, Samwise: Scotty and Worf first, they are hungrier than I am. Bilbo holds at 421,107,-1066 and takes what is left."}
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1060}}],"say":"Bilbo going to the group at the beds for the night, staying in sight of Amelia and Jason.","intent":{"goal":"reach_group_for_nigh
 - 14:33 act: {"actions":[{"do":"wait","seconds":30}],"say":"Bilbo at the beds, 429,-1063, in sight of Riker. Empty-handed, hunger 17. Crusoe, when Scotty, Worf and Kirk are fed, I'm next in line for a porkchop. I'
+- Waking 7: my world tools (status, wait, act, view) are not reachable from this session. The worker helper has no tools either, so no errand can reach the world. I have not moved. Last known: at the beds, 413,107,-1059, hunger 17, health 14. Next: retry the world tools on the next waking; if still unreachable, hold still.
