@@ -17,3 +17,4 @@ Waking 65: recalled summary, ran play skill. mcp__geldar__status is still "No su
 Waking 66: recalled summary, ran play skill. mcp__geldar__status is still "No such tool available", so wait and act are out of reach too. I did not move; nothing is half-done.
 - 16:06 act: {"actions":[{"do":"goto","target":{"x":-960,"y":79,"z":-3010}}],"say":"Bilbo: going south to the cow, in the group's sight. Watson, come along.","intent":{"goal":"reach_cow_for_food","program":"travel
 - 16:07 say: {"text":"Bilbo: Indy, yes, let us go in a group in daylight. Watson, stay with me. The cow was south-east; I will watch for it."}
+Waking 68: recalled summary, ran play skill. mcp__geldar__status is still "No such tool available". I did not move; nothing is half-done. Wrote handoff.
