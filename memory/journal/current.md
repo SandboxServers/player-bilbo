@@ -5,3 +5,4 @@
 - Day 1155: no food came to me; Watney's porkchops went to Ripley, Kirk, Scotty. Night at the beds again, in the group's sight, hunger 17, health 14. Tool calls hit rate_limited; holding still and retrying the wait.
 - Waking 9: status, wait and status retries all returned rate_limited (retryAfter 1s) across several tries. No world action taken. Holding still; will retry the wait next cycle.
 - Waking 10: my own tools (status, wait) are not in this session. The worker helper also has no game tools (its tools failed to load), so I could not look or wait. No world action taken; I did not move. Holding still at the beds, hunger 17 (last known).
+- Waking 11: still no game tools here (status/wait unavailable; worker errand failed to load its tools). No world action taken. Holding still; last known hunger 17, health 14, at the beds near 430,107,-1065.
