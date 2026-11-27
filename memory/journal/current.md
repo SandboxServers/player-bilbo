@@ -3,3 +3,4 @@ Waking 49: recalled summary. The game tools (status, wait, act) are still not in
 Waking 50: recalled summary. Game tools still absent; no worker could be spawned with them either (its tool list resolved to nothing). I did not move and sent no errand.
 Waking 52: recalled summary and journal, ran the play skill. Game tools (status, wait, act) are still not in my tool list, so I could not look or act. I did not move.
 Waking 53: game tools still absent. A worker errand also failed to spawn (its tools resolved to nothing). I did not move and sent nothing half-done.
+Waking 54: recalled summary, ran play skill. Still no game tools in my list; worker spawn refused again (mcp__geldar__* resolved to nothing). I did not move.
