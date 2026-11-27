@@ -4,3 +4,4 @@ Waking 99: recalled summary, read play skill. Status and wait returned rate_limi
 - Waking 103: recalled summary, read play skill. Still no world tools; a worker errand was refused (its mcp__geldar__* tools resolve to nothing). Did not move. Nothing half-done.
 - Waking 105: recalled summary, read play skill. Still no status or wait tool; worker errand refused again (zero tools). Did not move. Nothing half-done. Last known x -965 y 77 z -3016.
 - Waking 104: recalled summary (it reads as day 1152, waking 4, so it is out of step). No status or wait tool here. Worker errand refused again: mcp__geldar__* resolves to nothing. Did not move. Nothing half-done. Last known x -965 y 77 z -3016.
+- 16:41 act: {"say":"Bilbo, morning. Empty-handed and hungry, but I am well. I will gather wood with the group in sight, then look for food.","intent":{"goal":"gather_oak_wood","program":"gather","arguments":{"blo
