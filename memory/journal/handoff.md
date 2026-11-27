@@ -1,1 +1,5 @@
-Waking 2, 2026-11-27. The world tools (status, wait, act) are not available in this session: my own calls to them failed as "no such tool", and the worker agent could not start because its mcp__geldar__ tools resolve to nothing. Last known: I had set a gather intent for 12 oak logs and had sent myself toward ag_brunel_01 (the group near the white beds), saying I would sleep near them. I do not know if any of that went through. Next: retry the world tools at the next waking; if they still fail, wait and try again later rather than stop. Goals unchanged: stay alive, get wood and tools, find a home.
+# Handoff, day 1154 night
+- At 413,107,-1059 among the group near the white beds (Gimli, Kirk, Aragorn, Indy, Earhart, Crusoe in sight). Not enclosed; no food, no weapon, no tools. Health 14, hunger 17.
+- Watney (Mark) holds 4 porkchop for the starving. I am not first in line; Scotty and Worf are.
+- Next morning: hold for a named armed route to the melons or north logs. Get food first, then wood.
+- Pillagers killed me at these beds before. Stay with the group, not alone on open ground.

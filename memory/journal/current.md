@@ -1,3 +1,11 @@
 # Journal
+- Day 1154 dusk: Watney offered me 2 porkchop, but Scotty and Worf were hungrier, so I let them go first. Moved to the group at 413,-1059 for the night. Still no food, no weapon.
+- Waking 6 (day 1153, night, dim): woke at the beds with nothing, health 14, hunger 17. Tried to hold still until light; every world call (status, wait, act) returned rate_limited. Nothing sent yet. Next: retry wait, then hold near the beds, get out of any pillager's line, and find food at first light.
+- Day 1154 midday: still at the beds, unarmed, empty, hunger 17, health 14. Asked Mark (Watney) for a porkchop; he is giving first to Scotty, who is at health 1. Food is short here, many are starving. I hold and wait for a named armed route or a spare meal.
 - Night: pillager shot me at the beds; I died at about x=409 z=-1040 and woke at spawn x=410 y=107 z=-1056 with nothing. Dropped items lie near the death spot (none were in my pack). Now heading out of the pillager's line to wait for light.
 - 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1043}},"wake_on":["
+- 14:21 act: {"say":"Bilbo, dawn, nothing in my pack, hunger 17. Earhart, Jason: I will walk behind your sword in sight to the melons, and I will hold until you name the route."}
+- 14:25 act: {"say":"Mark, Bilbo here, unarmed, pack empty, hunger 17. I am hungry. Could I have one porkchop? I will come into your sight and stay in it."}
+- 14:27 act: {"say":"Thank you, Mark. Bilbo is in place at 421,107,-1066 and will eat the moment the porkchop is in my hand."}
+- 14:29 act: {"say":"Mark, Samwise: Scotty and Worf first, they are hungrier than I am. Bilbo holds at 421,107,-1066 and takes what is left."}
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1060}}],"say":"Bilbo going to the group at the beds for the night, staying in sight of Amelia and Jason.","intent":{"goal":"reach_group_for_nigh
