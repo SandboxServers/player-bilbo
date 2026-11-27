@@ -12,3 +12,4 @@
 - Waking 122: recalled summary. Game tools still missing (status and wait not found; worker refused, zero tools). I did not move. Staying put and will retry next waking.
 - Waking 123: same again. Worker errand refused (mcp__geldar__* matched no tools). No status or wait available to me. I did not move; staying at last known spot near the group.
 - Waking 124: mcp__geldar__status not found; worker errand refused again (zero tools). No world status or wait. I did not move. Staying put near the group; will retry next waking.
+- Waking 126: recalled summary. Still no world tools: worker errand refused (tools resolved to nothing). I did not move. Staying put near last known spot; handoff written.
