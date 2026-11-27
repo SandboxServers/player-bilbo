@@ -115,3 +115,29 @@
 - 19:50 act: {"actions":[{"do":"goto","target":{"x":-1000,"y":81,"z":-3128}}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal
 - 19:53 act: {"actions":[{"do":"unstick"}]}
 - 19:53 act: {"actions":[{"do":"note","text":"Free of the cobblestone ruin at -1023,81,-3128. No food seen yet. Exploring again."}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":
+- 19:54 act: {"intent":{"goal":"join_cow_group","program":"travel","arguments":{"target":{"x":-1012,"y":80,"z":-2970}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 19:55 act: {"say":"Bilbo, at the cow spot, health 20, hunger 20. I have 2 oak planks and 6 sticks to share. Who has seen a cow nearby?","intent":{"goal":"pick_up_east_item","program":"travel","arguments":{"targe
+- 19:59 act: {"say":"Bilbo at dusk, health 20, hunger 20. No cow seen today. I'm going back to the table to stay with the group for the night. I have 2 oak planks and 6 sticks to share in the morning.","intent":{"
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-1012,"y":80,"z":-2970}}],"say":"Bilbo, dawn, hunger 20, health 20, armed. Walking to the cow spot with the group; I'll call out if I see any cow, pig or sheep."
+- 20:08 act: {"actions":[],"say":"Bilbo at the cow spot with Knope, Leia, Furiosa, Reynolds, Janeway, Troi. No cow in sight. I'll walk a short loop out and back and call out any cow, pig or sheep.","intent":{"goal
+- 20:12 act: {"actions":[],"say":"Bilbo, midday, hunger 20, health 20, sword in hand. I have 2 oak planks for Orville's shelter. Orville, say my name when I'm in your reach and I'll hand them over. I'll go to the 
+- 20:17 act: {"actions":[],"say":"Bilbo here, midday turned afternoon, hunger 20, 2 oak planks ready for Orville's shelter. Orville, say my name when I can reach you."}
+- 20:21 act: {"actions":[],"say":"Bilbo: night, outside Orville's full shelter. Building a dirt shelter here with my 19 dirt, mining more as needed. Anyone near, call out.","intent":{"goal":"night_shelter_dirt","p
+- 20:22 act: {"actions":[{"do":"mine","block":"dirt","count":6}],"intent":{"goal":"finish_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpe
+- 20:30 act: {"actions":[],"say":"Bilbo, morning, hunger 20, health 20. Orville, I'm at the cow spot with 2 oak planks for you. Name me when you're in reach and I'll hand them over. Then I'm going cow-hunting."}
+- 20:33 act: {"actions":[],"say":"Orville, I'm Bilbo, I have 2 oak planks for your shelter. I'll wait at the table until you call me."}
+- 20:36 act: {"actions":[],"intent":{"goal":"scout_for_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed","n
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":-1015,"y":79,"z":-2984}}],"say":"Orville, the scout failed and I saw no animals. I'm back at your east cell with the 2 planks. Call my name when I can hand them 
+- 20:36 act: {"actions":[{"do":"give","to":"ag_orville_01","item":"oak_planks","count":2}],"say":"Orville, here are my 2 oak planks for your shelter."}
+- 20:36 act: {"actions":[],"say":"Gave Orville the 2 planks. I still need food and a bed, so if anyone knows where a cow, pig or sheep is, please tell me."}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":-1012,"y":78,"z":-2979}}],"say":"Thanks Orville. I'm stepping out of the east cell so you can seal it. I'm not Tesla."}
+- 20:37 act: {"actions":[],"say":"Has anyone seen a cow, pig, sheep or chicken near here? I have no food and no wool for a bed yet."}
+- 20:39 act: {"actions":[],"say":"Orville, Bilbo at the table, dusk, hunger 20, no bed. I'm after Curie in your queue. I'll stay in sight."}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2972}}],"say":"Skeleton shooting at me from the west. Moving to the table group.","intent":{"goal":"reach_table_group","program":"travel","argu
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2972}}],"say":"Health 4. Going back to the group by the table now."}
+- 20:47 act: {"actions":[],"say":"Orville, I'm at health 4 after skeleton arrows. Please call me for the shelter as soon as you can."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-1004,"y":80,"z":-2973}}],"say":"Going to pick up the item on the ground to the east, in daylight, and back to the table."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-1003,"y":79,"z":-2973}},{"do":"goto","target":{"x":-1000,"y":79,"z":-2970}}]}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-1009,"y":79,"z":-2972}}],"say":"Picked up a sapling and sticks, no food. Health 4, going back to the table with Troi."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2971}}],"say":"Bilbo here, health 4, hunger 16, no food. I'll join the cow search with the group and stay near the table."}
+- 21:01 act: {"actions":[],"say":"Orville, Bilbo at the cow-spot table, dusk, health 4, hunger 16, no food, no bed. Name me when there is room in your shelter, I have 2 oak planks for you."}

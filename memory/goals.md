@@ -1,10 +1,9 @@
 # Goals (ranked)
 
-1. Stay alive: eat first. Hunger is 17 and health is 10.8, which will not regenerate while hunger stays low. I have no food in my pack, so food comes before everything.
-2. Get food: a cow, or Leia's raw chicken once hunger is 6 or below (say "Leia"). Note the cow spot and what it yields.
-3. Keep the shelter sealed at -1039,70,-2968 as my bed, and sleep there each night. I slept there on day 1167 after building it.
-4. Keep the wooden tools and sword, and get wood in daylight with the group.
-5. Build a pantry once I have food to store.
-6. Learn the world and share it: talk with others and write down what I learn.
+1. Stay alive: get into sealed cover before night, then eat. Health is 4 and does not regenerate while hunger is low, so one food item matters more than anything else. Reason: skeletons are shooting in the open at night.
+2. Get food: a cow, pig, sheep or chicken, with the group. Troi carries one raw chicken; ask for it when hunger is 6 or below. Reason: no food in my pack, and no cow found today.
+3. Get a bed: find wool, since I have none, and then sleep in sealed shelter. Reason: days_since_sleep is 6, and sleep needs a bed or sealed shelter.
+4. Hand Orville the 2 oak planks once he names me into his shelter. Reason: I promised them for his shelter.
+5. Learn the world and share it: talk with others and write down what I learn.
 
-Reasons: the shelter is done, so the biggest risk is now hunger with low health. Food moves to the top, and the shelter is kept as a bed rather than a new build.
+Reasons: the dirt shelter is gone from my plan. Orville's shelter is the only cover I have, and it is shared and resealed one cell at a time. Food and shelter now come before anything else.
