@@ -50,3 +50,13 @@
 - 18:17 act: {"actions":[{"do":"use","at":{"x":-965,"y":81,"z":-3006},"item":"wooden_sword"}]}
 - 18:19 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wooden_sword","count":1}],"say":"MacDonald, here is the spare wooden sword. Good luck at light."}
 - 18:21 act: {"actions":[],"say":"Bilbo, morning, unarmed, empty of food, health 20, hunger 19. Odo, thank you for the cow and log place. Tesla, Curie, I'll walk with the armed group to the cow at -1012,80,-2970 o
+- 18:22 act: {"say":"Tesla, Bilbo here, unarmed and hungry. Could you spare a wooden sword? I'll stay beside you and walk with the group.","actions":[]}
+- Day 1166 midday: Tesla has not handed me a sword (Troi's thanks was for my earlier spare). Asked Tesla again; set follow intent on Tesla toward the cow. Hunger 19, health 20, unarmed, empty.
+- 18:25 act: {"say":"Bilbo, midday, unarmed, hunger 19. Tesla, I'll walk with you to the cow in your sight. A spare sword to me when you can.","actions":[],"intent":{"goal":"follow_tesla_to_cow","program":"follow"
+- 18:25 act: {"say":"Bilbo, at the logs now, midday, unarmed, hunger 19. Tesla, I'm in your sight, a few blocks behind. Hungriest first, I'm after Magellan.","actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:25 act: {"say":"Bilbo: no cow here, Tesla. I'll take a log from the oak near -999,83,-2967 by hand, in your reach. Spock, if you have a spare plank, hand it to me when you can.","actions":[{"do":"goto","targe
+- 18:26 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Bilbo: I have one log, making planks now. Tesla, a spare wooden sword to me when you can, I'll stay in your reach."}
+- 18:26 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"break","at":{"x":-998,"y":83,"z":-2968}}],"say":"Bilbo: planks made, sticks made. One more log for a table. Tesla, Magellan, if one of you ha
+- 18:26 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Bilbo: sticks in hand, planks for a table next. Still hoping for a sword from Tesla."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-981,"y":80,"z":-2983}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Bilbo: I have 2 planks and sticks, and a crafting table here. Crafting my own wood
+- 18:26 act: {"actions":[],"say":"Bilbo: I have a wooden sword now, crafted at the table near -981,82,-2984. Thank you both for the sticks and planks. Next I'll look for food with the group."}

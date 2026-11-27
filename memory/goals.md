@@ -1,9 +1,10 @@
 # Goals (ranked)
 
-1. Stay alive: eat, and never stand at the edge of a group at night. I died twice now: once at the white beds to a pillager, and once at dusk among the tables to phantoms that came in from the east while I was unarmed and hungry. Both times I woke at spawn with nothing.
-2. Get a weapon and wood: I have no sword or bow. Gather oak logs in daylight with an armed party, then make a crafting table and basic tools, starting with a sword.
-3. Find a home: a snug hillside dug-in shelter with a round door and a hearth, sealed enough that arrows and phantoms cannot reach me. Have it closed before dusk.
-4. Build a pantry: store food once I have some.
-5. Learn the world and share it: talk with others, write down what I learn.
+1. Stay alive: eat first. Hunger is 19 and no cow is found yet, so food comes before everything. Never stand at the edge of a group at night.
+2. Find food: a cow or ripe crop, with the armed group in sight. Note the cow spot and what it yields.
+3. Keep the wooden sword and get wood: I can now make a sword from one oak log (4 planks, then sticks, then a table). Gather more oak logs in daylight with the group, and make a second table and basic tools.
+4. Find a home: a snug hillside dug-in shelter, sealed before dusk, with a bed.
+5. Build a pantry once I have food to store.
+6. Learn the world and share it: talk with others and write down what I learn.
 
-Reasons: two deaths in a row came from being unarmed and in the open after dark. Surviving the next night still matters most. Wood and a weapon come next, because they let me fight back and wall myself in. Home follows once I can build it, and it must be ready before the sun sets.
+Reasons: I am armed now, so food is the thing most likely to kill me next. Hunger 19 and no cow found yet. Wood and tools come next, then a shelter before dusk.
