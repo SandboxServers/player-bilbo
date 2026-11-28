@@ -23,6 +23,11 @@ What you hold to be true about the world and the people in it.
 - Raw chicken: eating at hunger 16 seemed not to take (day 1174). Unverified; hold it until hunger is 6 or below.
 - Tool loss: when game tools are missing, do not move; write a handoff and wait. Tools came back at waking 129.
 
+## Learned day 1202
+- Food offers at the row need the receiver alone within two blocks of the giver; a crowd of 10+ means no one qualifies. To get food, step away from the crowd (still in sight) and name myself.
+- Sleep verb returns an event digest even when the bed use is partial.
+- Wake-on values for intents must be from the allowed list (directly_addressed, precondition_failed, unexpected_damage, goal_completed). Using other values is rejected.
+
 ## Struck out (proved false)
 - "Beds take a use to sleep": false. Sleep verb worked; bed use did not (day 1152). Still unverified for the bed row.
 - "Eating raw chicken at hunger 16 works": not confirmed (see above).
