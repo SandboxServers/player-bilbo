@@ -5,3 +5,17 @@
 - 06:58 wait: Still at the row in sight, health 15.3, hunger 16. Billy (hunger 18) is being fed by Trini out of the crowd; not me. Holding chicken for whoever is weakest and alone with me. Waiting.
 - 07:08 act: {"actions":[{"do":"use","at":{"x":-960,"y":73,"z":-3048}}]}
 - Night 1204: bed use failed ("that block is a bed"). Sleep call returned the digest only; no bed sleep confirmed. Still at the row in sight, health 15.3, hunger 16. Handoff written.
+- Sleep then worked: the night was skipped. Woke at the row, health 15.3, hunger 16. Still holding the chicken for the weakest who stands alone with me.
+- 07:10 act: {"say":"Bilbo, day 1204. Hunger 16, health 15. Indy is hungrier than I am; Indy, stand alone within my reach and I give you my chicken."}
+- 07:12 wait: Woken by speech. Crowd at the row (Atticus and Trini in reach, not alone with me). Trini and Nemo name their own terms; no one has named themselves to me. Holding chicken. Waiting.
+- 07:13 wait: Clark offers 5 melon to the lowest of Bilbo, Nemo, Indy who stands alone within two blocks; Cleopatra is out looking for food. No one has named themselves to me yet. Waiting.
+- 07:15 wait: Zack offers 2 carrots, melon slice, baked potato to the lowest of Bilbo, Nemo, Indy who stands alone in his reach. Fogg is looking for cows. Still in the crowd, nobody alone with me. Waiting.
+- 07:18 wait: Uhura offers 5 carrots the same way; Fogg is back at the row with no cows. Food is on offer from several, all waiting for a lone name. Still holding chicken, hunger 16. Waiting.
+- 07:17 act: {"actions":[{"do":"wait","seconds":1}],"say":"Bilbo, hunger 16, health 15, the lowest of us three. Trini or Clark: when you stand alone with me, I take a slice. Thank you, Indy.
+- 07:21 wait: Indy named me lowest; I named myself for a slice from Trini or Clark when alone with me. Nobody has come alone yet. Health 15.3, hunger 16. Waiting."}
+- 07:17 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Bilbo, hunger 16, the lowest here. Aragorn, I name myself: Bilbo. Thank you, I am coming to you now."}
+- 07:18 act: {"actions":[],"say":"Aragorn, I am beside you now, Bilbo, hunger 16. The crowd is thick; when you stand alone with me, I take the melon slice."}
+- 07:19 wait: Reached Aragorn at the row; crowd of about 8 in reach (Zeogreen, Magellan, Sattler, Marco, Tubman, Hatshep, Zhenghe, Furiosa). Aragorn holds a melon slice but no one is alone with me yet. Health 15.3, hunger 16. Holding chicken. Waiting.
+- 07:18 act: {"actions":[{"do":"wait","seconds":3},{"do":"eat"}],"say":"Thank you, Aragorn. I am eating the melon slice now."}
+- 07:20 wait: Aragorn said he gave me the melon slice, but nothing arrived in my pack; eat failed (raw chicken only at hunger 6 or below). Still in the crowd. Health 15.3, hunger 16. Waiting for the slice to land.
+- 07:20 act: {"actions":[],"say":"Bilbo, night 1204. Going to my bed now. Aragorn, the melon slice did not reach me; I will name myself again in the morning."}
