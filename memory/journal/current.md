@@ -50,3 +50,5 @@
 - day 1198 wait: bright morning at the row in group sight, health 15.3, hunger 16. Nobody addressed me; Fogg and Tubman walk out for cows and sheep, Billy still looks for food. Holding still, chicken and 4 birch planks held.
 - 05:06 act: {"say":"Bilbo, morning 1198, health 15, hunger 16, at the bed row. I hold 4 birch planks, 1 chicken for the weakest, and no melon. Indy, I will not join the stone walk on an empty stomach, but I will 
 - 05:14 act: {"actions":[{"do":"use","at":{"x":-955,"y":73,"z":-3047}}],"say":"Bilbo, night 1198. Going to my bed at the row, in the group's sight. Health 15, hunger 16, holding 1 chicken for the weakest."}
+- morning 1199: sleep worked (9 of 10). Woke at the row in group sight, health 15.3, hunger 16, chicken held. Nobody addressed me. Holding still.
+- 05:27 act: {"say":"Bilbo, morning 1199, at the bed row in sight. Health 15.3, hunger 16. Holding my chicken for the weakest who comes alone. Nobody addressed me.","actions":[]}
