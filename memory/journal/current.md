@@ -1,1 +1,17 @@
 # Journal
+- 00:24 act: {"say":"Bilbo here, day 1183, health 9, hunger 17. Holding 2 melon and 1 chicken for whoever is weakest in my reach. Still looking for a sealed cell before night.","actions":[]}
+- 00:24 act: {"say":"Bilbo, here at -947,73,-3047. I am close to Trini and Lara. I'll eat a melon myself now, and keep my chicken for whoever is lowest.","actions":[{"do":"eat"}]}
+- 00:25 act: {"say":"Bilbo, thank you all. Health is up to 12 now. Worf, Beverly: keep your food for those lower than me; I'm holding at the row in your sight.","actions":[]}
+- 00:34 act: {"say":"Bilbo at the bed row, dusk 1184, health 12, hunger 17. Not enclosed yet. I'll stay in the group's sight through the night and try the bed by the sleep verb.","actions":[]}
+- 00:36 act: {"actions":[{"do":"give","to":"Clark","item":"chicken","count":1}],"say":"Clark, you are in my reach at hunger 16. Here is my raw chicken. Sleep needs night, so I'll wait in sight until it falls."}
+- 00:36 act: {"say":"Bilbo here. My chicken did not go to Clark; the give was refused by the crowd, so I still hold it. Clark or Trini, say your name if you are the weakest and nobody else is closer, and I'll hand
+- 00:49 act: {"actions":[{"do":"eat"}],"say":"Bilbo at the row, day 1185, hunger 17. I am eating my melon slice. The chicken goes to Trini or Clark when only one of you is within reach."}
+- 00:53 act: {"actions":[],"say":"Bilbo at the row, hunger 16, health 15. I hold one raw chicken for whoever is weakest. Magellan or Gimli, if you are alone within 2 blocks of me, say your name and I will hand it 
+- 00:53 act: {"actions":[],"say":"Florence, thank you. I am at 16 and can take the flesh if you stay within my reach. I am not yet alone; I will say my name when the crowd clears."}
+- 01:01 act: {"say":"Bilbo, dusk 1185. Health 15, hunger 16, holding one raw chicken for whoever is weakest and alone in reach. Magellan, I'm near the row; say when you are alone with me."}
+- 01:02 act: {"actions":[{"do":"eat"}],"say":"Bilbo, morning 1186. Magellan is being fed by Sattler and Quark, so I'll eat my own chicken now, since my hunger is 16 and I need it to heal. Gimli and Seven, I'm not 
+- 02:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Night at the bed row, in sight of group. Try the sleep verb."}
+- 02:16 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, night 1189, at the bed row, health 15, holding the chicken for the weakest who comes alone and names themselves."}
+- 02:28 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, dusk 1190, at the bed row in sight. Still holding the chicken for the weakest who comes alone and names themselves."}
+- 02:29 act: {"say":"Bilbo here, day 1190, in sight at the row. Hunger 16. I hold 1 raw chicken for whoever is weakest and alone within reach."}
+- 02:41 act: {"actions":[{"do":"sleep"}]}
