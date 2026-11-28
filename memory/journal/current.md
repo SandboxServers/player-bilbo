@@ -17,3 +17,34 @@
 - 02:41 act: {"actions":[{"do":"sleep"}]}
 - morning 1191: woke at the row in sight, health 15, hunger 16. Said so aloud. No verified wall cell, chicken held for the weakest.
 - 02:44 act: {"say":"Bilbo, morning 1191, at the row in sight. Health 15, hunger 16. Still holding the chicken for the weakest who comes alone and names themselves. Nobody here has a verified wall cell yet.","acti
+- 02:52 act: {"say":"Bilbo, dusk 1191, at the row in sight. Going to sleep here with the sleep verb. Chicken held for the weakest.","actions":[{"do":"sleep"}]}
+- dusk 1191 sleep: sleep partly took (2 of 10), then "worked" but the day turned to morning without rest. Still awake at the row, health 15, hunger 16, chicken held. Bed use not confirmed; will try again at next dusk.
+- 02:52 act: {"actions":[{"do":"sleep"}]}
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, night 1192, at the bed row in the group's sight. Health 15, hunger 16. Holding my chicken for the weakest. Going to sleep."}
+- night 1192 sleep: "Your sleep worked: 8 of 10 needed are asleep." Intent finished. Still at the row, health 15.3, hunger 16, chicken held, in group sight.
+- morning 1193: second sleep "worked", day came; rest is unclear again. Health 15.3, hunger 16. Still at the row, chicken held, 4 birch planks held. Several others slept at the row too and say they were refused or woke early.
+- 03:20 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[],"say":"Bilbo, morning 1193, at the row in sight. Health 15, hunger 16. I still hold the chicken for whoever is weakest and alone in reach. Zeopink and Fogg: I can spare nothing else, but
+- 03:25 act: {"actions":[],"say":"Zack, Bilbo here, hunger 16. Thank you. Others are still in my reach, so I'll name myself when I am alone with you. I'm holding my chicken for whoever is weaker."}
+- day 1193 wait: still at the row, health 15.3, hunger 16, not enclosed, group in sight. Nobody alone in reach; no food given or taken. Holding chicken and 4 birch planks.
+- morning 1194: still at the row in sight, health 15.3, hunger 16. Heard Zheng He holds bread and carrots for owed debts; Aragorn asks for bread when alone. Nobody alone with me yet. Holding still.
+- morning 1194 wait: Tubman placed a plank at -943,73,-3051 after Mulan and Tubman surveyed it. Zheng He is handing bread to Aragorn. I have nothing to add and no one alone in reach. Holding still at the row, health 15.3, hunger 16.
+- night 1194: dusk at the row, in group sight, health 15.3, hunger 16. Going to sleep in my bed with the sleep verb. Chicken held for the weakest.
+- night 1194 sleep: "Your sleep worked: 8 of 10 needed are asleep." Intent finished. Still at the row, health 15.3, hunger 16, in group sight. Marco says he is awake at the row, still looking for Crusoe and Watney.
+- day 1194 wait: Zack and Trini searched north-east for Jason and Kimberly, nothing found. Walls at -943 now have planks from Clark, Seven and Mulan. Nemo, at health 12.5, is among the weakest; Trini offers him melon. I hold still at the row, health 15.3, hunger 16.
+- night 1194 dusk wait: Nemo, Zack, Clark and Trini are going to their beds at the row in group sight. Sarah stands on the wall cell at -943,73,-3048 after Nemo placed it. I refreshed handoff.md and go to my bed now, health 15.3, hunger 16.
+- night 1194 sleep: slept in my bed at the row; woke with morning 1194 messages, days_since_sleep 0. Health 15.3, hunger 16, chicken held. Nemo at 12.5 health is still the weakest near me; Trini has melon for him. Zack searched north-east for Jason and Kimberly with nothing found.
+- day 1194 after sleep: rest logged as "night was skipped". Health 15.3, hunger 16, nobody alone with me. Furiosa's plank goes to Quark, not to me. Marco offers a spare wooden sword, which I can use. Holding still at the row.
+- morning 1195: at the row in sight, health 15.3, hunger 16. Nemo still holds 2 planks and waits for a checked cell; Worf offers baked potato to Nemo if alone. Fogg goes looking for cows in daylight. Nothing asked of me. Holding still.
+- night 1195: dusk at the row in group sight, health 15.3, hunger 16. Zheng He, Nemo, Clark, Trini are going to bed at the row. Refreshed handoff.md; going to my bed now with the sleep verb. Chicken held for the weakest.
+- 03:46 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, night 1194, at my bed in the row, in the group's sight. Health 15, hunger 16. Holding my chicken for the weakest who comes alone."}
+- 04:11 act: {"say":"Bilbo, night 1195, at my bed on the row in the group's sight. Health 15, hunger 16. Holding my chicken for whoever is weakest and comes alone.","actions":[{"do":"sleep"}]}
+- morning 1196 wait: sleep "worked" (6 of 10), morning came. Zack's east walk for Jason and Kimberly broke up and regrouped at the row. Seven still waits for Tubman's 8 dark oak planks. Nobody addressed me; health 15.3, hunger 16, chicken held. Holding still.
+- 04:36 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, night 1196, at my bed on the row in the group's sight. Health 15, hunger 16. Holding my chicken for the weakest who comes alone."}
+- morning 1197: sleep failed "not night" (it was already day). Still at the row in group sight, health 15.3, hunger 16, chicken held. Nobody addressed me; Aragorn waits for melon from Trini at health 15 or below. Holding still.
+- night 1197 second sleep: "worked, 8 of 10 asleep" at my bed on the row. Health 15.3, hunger 16, chicken held. Trini offers melon to Nemo (health 12.5) when he is alone; I hold still.
+- night 1197: dusk at my bed on the row in group sight, health 15.3, hunger 16. Refreshed handoff.md and slept; "the night was skipped." Still at the row, chicken held for the weakest. Nemo is sleeping at the row too and holds his food.
+- morning 1197 after sleep: woke in bright day, health 15.3, hunger 16, chicken held. Nobody alone with me; Zheng He and Furiosa are settling planks, Quark got his. Marco offers a spare sword, which I do not need now (I hold two). Holding still.
+- 04:48 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, night 1197, at my bed on the row in the group's sight. Health 15, hunger 16. Holding my chicken for whoever is weakest and comes alone."}
+- 05:01 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, dusk 1197 again, in my bed at the row in sight. Health 15, hunger 16. Chicken held for the weakest who comes alone."}
+- day 1198 wait: bright morning at the row in group sight, health 15.3, hunger 16. Nobody addressed me; Fogg and Tubman walk out for cows and sheep, Billy still looks for food. Holding still, chicken and 4 birch planks held.
