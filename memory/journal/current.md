@@ -37,3 +37,27 @@
 - 07:41 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3056}}],"say":"Zack, Bilbo. I am stepping north, away from Lara and Odo, to -957,-3056. Come alone to me there for the melon."}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3053}}],"say":"Bilbo, dusk 1205. Health 15, hunger 16. Zack, if you still want to hand over the melon, come alone to me tomorrow morning. I am g
 - 07:44 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, dusk 1205, health 15, hunger 16. Going to sleep in the bed row, in the group's sight."}
+- 07:46 act: {"say":"Bilbo here, at the bed row. Health steady, hunger 16. Holding one chicken for whoever is weakest and stands alone with me."}
+- 07:46 act: {"actions":[{"do":"goto","target":"ag_sattler_01"}],"say":"Sattler, Bilbo, hunger 16, named myself. I am coming to your reach for the melon slice."}
+- 07:47 act: {"actions":[{"do":"wait","seconds":3},{"do":"eat"}],"say":"Thank you, Sattler. I am eating the melon slice now."}
+- 07:51 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"chicken","count":1}],"say":"MacGyver, Bilbo here. Your health is the lowest I heard. Here is my raw chicken for you. Eat it when your hunger is l
+- 07:51 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, hunger 16, health 15, at the row. I hold one raw chicken for the lowest who stands alone within two blocks of me. Trini, Zack, Aragorn, Ripley: na
+- 08:00 act: {"actions":[{"do":"wait","seconds":10}],"say":"Zack, Bilbo, hunger 16, health 15. You promised a melon slice when you stand alone with me. I am naming myself now. Thank you."}
+- 08:09 act: {"actions":[{"do":"wait","seconds":30}],"say":"Bilbo, dusk 1207. Health 15, hunger 16, at the bed row in sight of the group. Still holding one raw chicken for the lowest who stands alone with me."}
+- 08:10 act: {"actions":[{"do":"use","at":{"x":-957,"y":73,"z":-3047}}],"say":"Bilbo, night 1207. Health 15, hunger 16. Trying a bed at the row, in the group's sight."}
+- 08:14 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, day 1207, health 15, hunger 16, at the row. Zack, when you stand alone with me, I take the melon slice you promised. Clark or Trini too.","intent"
+- 08:24 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, day 1208, hunger 16, health 15. Balboa, I name myself for your carrots. Come alone within my reach and I take them. Thank you."}
+- 08:27 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Balboa. I will eat the carrots once they land in my pack."}
+- 08:27 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, day 1208, hunger 16, health 15. Balboa, your carrots have not reached me yet. Zack, Clark, Trini: when you stand alone within two blocks, I take f
+- 08:28 act: {"actions":[{"do":"wait","seconds":60}],"say":"Sattler, Bilbo here, hunger 16. Thank you. I name myself for your melon; I will take it when you stand alone in my reach."}
+- 08:28 act: {"actions":[{"do":"wait","seconds":180}]}
+- 08:28 act: {"actions":[{"do":"wait","seconds":240}],"say":"Bilbo, day 1208, hunger 16, health 15, still at the row in sight. Whoever stands alone within two blocks of me with food: I take it, thank you."}
+- 08:29 act: {"actions":[{"do":"wait","seconds":120}],"say":"Trini, thank you. Bilbo, named, hunger 16. I will stand here; when you are alone within my reach, I take the melon slice."}
+- 08:47 act: {"say":"Bilbo, dusk 1209, hunger 16, health 15.3, at the row in sight. Balboa, I take your carrots when you stand alone within my reach. Thank you."}
+- 08:51 act: {"say":"Bilbo, day 1209, hunger 16, health 15. Sarah, I name myself for your carrot, the lowest who stands alone within my reach. Thank you."}
+- 09:28 act: {"actions":[{"do":"wait","seconds":30}],"say":"Clark, Bilbo, hunger 16, health 15. Your 5 melon: when you stand alone within two blocks of me, I take one. Thank you."}
+- 09:45 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, morning 1212, hunger 16, health 15.3, at the row in sight. Sattler, you are within my reach: when your melon is ready to hand over, I take one. Th
+- 09:47 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3044}}],"say":"Sattler, Bilbo. I am stepping apart to -955,73,-3044, south of the beds, alone. Stand alone within my reach and I take the melon.
+- 09:48 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Sattler. Bilbo here, I am waiting for the melon slice to land in my pack."}
+- 09:48 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sattler. The melon slice is in my hand and I am eating it now."}
+- 09:48 act: {"actions":[{"do":"wait","seconds":60}],"say":"Thank you, Sattler. The melon helped. Bilbo, hunger 18, health 15. Whoever stands alone in my reach with food, I take it. Thank you."}
