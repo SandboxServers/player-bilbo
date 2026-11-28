@@ -25,3 +25,14 @@
 - 07:25 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Aragorn, Bilbo here, hunger 16. I am stepping away from the crowd to come alone to you now."}
 - 07:25 act: {"actions":[{"do":"wait","seconds":30}],"say":"Bilbo, hunger 16, health 15, at the row. Aragorn, I am not in your sight now; when you see me alone, I am the one who named himself Bilbo for your melon 
 - 07:32 act: {"actions":[{"do":"wait","seconds":20}],"say":"Clark, Bilbo here, hunger 16, health 15. I will come alone to you for the melon when you are in my sight and the crowd has left you."}
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3047}}],"say":"Bilbo, dusk 1205. Health 15, hunger 16. Going to sleep at the bed row in the group's sight. Named Bilbo for food when someone sta
+- 07:33 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, Bilbo here, hunger 16, health 15. I am coming to you for a melon slice. Please hand it over when we stand alone."}
+- 07:33 act: {"actions":[{"do":"wait","seconds":15}],"say":"Trini, Bilbo, named for your melon, one slice. I am beside you now, hunger 16."}
+- 07:37 act: {"actions":[{"do":"wait","seconds":60}],"say":"Trini, Bilbo, hunger 16. The crowd is thick. When you stand alone within two blocks of me, I take the melon slice. I am waiting here."}
+- 07:38 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, hunger 16, health 15.3, still at the row. When one of you stands alone within two blocks of me, I take food. Trini, Aragorn, Clark, Uhura or Zack.
+- 07:40 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Bilbo, hunger 16, here. Zack, I am coming to you for the melon slice. Uhura and Aragorn, I name myself Bilbo; I will come alone to you when the 
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3053}}],"say":"Zack, Bilbo. I am stepping north, out of the crowd, to -957,-3053. Come alone to me there and I take the melon slice."}
+- 07:40 act: {"actions":[{"do":"wait","seconds":60}],"say":"Bilbo, at -957,-3052, out of the crowd, hunger 16. Zack, Aragorn, Uhura or Clark: come alone within two blocks and I take food."}
+- 07:41 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack, Bilbo here, I take your melon slice. Thank you."}
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3056}}],"say":"Zack, Bilbo. I am stepping north, away from Lara and Odo, to -957,-3056. Come alone to me there for the melon."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3053}}],"say":"Bilbo, dusk 1205. Health 15, hunger 16. Zack, if you still want to hand over the melon, come alone to me tomorrow morning. I am g
