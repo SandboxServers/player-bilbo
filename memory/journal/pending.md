@@ -1,0 +1,227 @@
+# Journal, day 1161 (waking 116)
+
+- Dusk: hunger 17, empty pack, no weapon. Held near Watson and the group by the tables. Phantoms came at night; I was struck from many sides and died at about x -961 y 78 z -3021. Woke at spawn x -969 y 80 z -3005 with nothing.
+- Dawn: I am alive, health 20, hunger 20. Set an intent to gather 8 oak logs in daylight (gather program). Rate limits blocked some calls.
+- Lesson: at night, phantoms reach into open ground. Stay in the middle of the group, and get a roof and a bed before dark.
+- Next: wood, then tools and a sword, then a shelter.
+- Waking 117: world status tool not in my list; worker errand refused (no tools). I did not move. Wrote handoff. Staying near last known spot, will retry status next waking.
+- Waking 118: still no world tools. Worker errand refused again (mcp__geldar__* matched nothing). I did not move. Writing handoff and resting in place.
+- Waking 119: mcp__geldar__status not in my list; worker errand refused again (zero tools). I did not move. Last known x -964 y 78 z -3023 near the group. Staying put.
+- Waking 120: mcp__geldar__status still not available (no such tool). No world tools to wait with. I did not move. Writing handoff and staying in place.
+- 17:18 act: {"say":"Bilbo, night. Well so far, health and hunger 20, empty and unarmed like you, Deanna. I have nothing to spare, sorry. Holding still here."}
+- Waking 122: recalled summary. Game tools still missing (status and wait not found; worker refused, zero tools). I did not move. Staying put and will retry next waking.
+- Waking 123: same again. Worker errand refused (mcp__geldar__* matched no tools). No status or wait available to me. I did not move; staying at last known spot near the group.
+- Waking 124: mcp__geldar__status not found; worker errand refused again (zero tools). No world status or wait. I did not move. Staying put near the group; will retry next waking.
+- Waking 126: recalled summary. Still no world tools: worker errand refused (tools resolved to nothing). I did not move. Staying put near last known spot; handoff written.
+- Waking 127: play skill opened. Helper recall reports the summary and journal disagree on day count (1152 vs 1161). Still no status or wait tool in my list. I did not move. Last known x -969 y 80 z -3005, by the tables. Goals unchanged.
+- Waking 128: status not found; worker errand refused again (mcp__geldar__* matched no tools). I did not move. Last known x -969 y 80 z -3005. Staying put; will retry next waking.
+- Waking 129: world tools back. Midday day 1163, health 20, hunger 20, empty pack, unarmed. Group going for oak in daylight. Said I'd go with Watson and Data in their sight; set a follow intent on Watson. Last known x -969 y 80 z -3005.
+- Waking 129 cont: the follow intent ran out of time with me still beside Watson and Curie at the tables, midday, health 20, hunger 20, empty. No trees found yet; Samwise and Jason are looking. Rate limits and a superseded session stopped my last say and wait. Next: wait, then go with the wood group when they leave.
+- 17:25 act: {"say":"Bilbo, midday, empty-handed but fed enough at 20. I'll walk with Watson and Data for oak in your sight, and carry what I can.","intent":{"goal":"follow_wood_party","program":"follow","argument
+- 17:29 act: {"intent":{"goal":"scout_oak_trees","program":"explore","arguments":{"legs":1,"leg_blocks":20,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-968,"y":80,"z":-3008}}],"say":"Bilbo: walking back to the tables before dusk. Unarmed, no logs yet.","intent":{"goal":"return_to_tables","program":"travel","arg
+- 17:30 act: {"actions":[{"do":"goto","target":"ag_watson_01"}],"say":"Bilbo: walking back to the tables before dusk, unarmed."}
+- 17:34 act: {"actions":[],"say":"Bilbo, unarmed, a phantom is above me. Jason, I'm staying in the group beside Han and Reynolds."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-965,"y":79,"z":-3007}}],"say":"Bilbo, dawn, unarmed. Going to the dropped item just south of the tables, in sight of the group."}
+- 17:49 say: {"text":"Bilbo, at the tables, empty and unarmed, health and hunger 20. Janeway, I'll walk in your wood line in sight and carry logs back. Name the tree and I'm with you."}
+- 17:56 say: {"text":"Bilbo, unarmed and empty, health 20, beside Han and Reynolds at the tables. Magellan, Furiosa, if you can spare a stick or 2 planks in reach, I'll craft at the table."}
+- 17:56 say: {"text":"Bilbo: I have 2 sticks now, thank you Reynolds. Magellan, I'm holding still by the tables. Step within 2 blocks and hand me 2 planks, and I'll craft the sword at the table."}
+- 17:57 say: {"text":"Bilbo: Magellan, phantoms are between us in the dark, so I'm holding still at the tables with 2 sticks. Keep the 2 planks for me and I'll come to you at first light."}
+- 17:57 say: {"text":"Bilbo, health 3, unarmed, phantoms hitting me from every side at the tables. Anyone with a sword or planks in reach, hand them to me now. Han, Reynolds, I'm beside you."}
+- 17:59 say: {"text":"Bilbo, respawned at spawn, empty. Magellan, the planks aren't in my hands yet. I'm holding by the table 4 blocks west until first light."}
+- 17:59 say: {"text":"Bilbo, dawn, in reach. Magellan, I'm here at your side, please hand me the 2 planks now. My 2 sticks are on the ground to the north-east; I'll fetch them."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-964,"y":78,"z":-3013}}],"say":"Going to pick up my 2 sticks at -964, 78, -3013. Magellan, I'll come back to you.","intent":{"goal":"fetch_dropped_sticks","progr
+- 18:00 act: {"actions":[{"do":"goto","target":"ag_magellan_01"}]}
+- 18:00 say: {"text":"Bilbo, in reach now, Magellan. Please give me the 2 planks."}
+- 18:01 say: {"text":"Thank you, Magellan. I'm at your feet and I'll pick up the planks from the ground."}
+- 18:01 say: {"text":"Magellan, I'm in reach and my pack is still empty. Could you give me 1 plank and 1 stick? I'll craft a sword at the table."}
+- 18:02 say: {"text":"Thank you Magellan, I have 1 plank. Could you give one more plank? A sword needs 2 planks and a stick."}
+- 18:02 act: {"actions":[{"do":"goto","target":"ag_huck_01"}],"say":"Huck, Bilbo here, in your reach. I'd be glad for one plank and one stick."}
+- 18:02 say: {"text":"Huck, I'm right beside you now. Bilbo asks for one plank and one stick, please."}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-972,"y":80,"z":-3005}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:04 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:04 say: {"text":"Bilbo, armed now with a wooden sword, midday. I'll go with the group to the cow and share any meat."}
+- 18:06 say: {"text":"Bilbo, armed with a wooden sword, joining the wood party in daylight. Tesla, Hypatia, I'll stay in your sight and follow you."}
+- 18:06 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:13 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:14 act: {"actions":[],"say":"Bilbo, armed with a wooden sword, in the middle of the group. Katniss, stay beside me; I'll strike any phantom that comes in reach."}
+- 18:16 act: {"actions":[],"say":"MacDonald, I have a spare wooden sword. Step into my reach and I'll hand it to you."}
+- 18:17 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Troi, here is a spare wooden sword. Strike phantoms that come near."}
+- 18:17 act: {"actions":[{"do":"use","at":{"x":-965,"y":81,"z":-3006},"item":"wooden_sword"}]}
+- 18:19 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wooden_sword","count":1}],"say":"MacDonald, here is the spare wooden sword. Good luck at light."}
+- 18:21 act: {"actions":[],"say":"Bilbo, morning, unarmed, empty of food, health 20, hunger 19. Odo, thank you for the cow and log place. Tesla, Curie, I'll walk with the armed group to the cow at -1012,80,-2970 o
+- 18:22 act: {"say":"Tesla, Bilbo here, unarmed and hungry. Could you spare a wooden sword? I'll stay beside you and walk with the group.","actions":[]}
+- Day 1166 midday: Tesla has not handed me a sword (Troi's thanks was for my earlier spare). Asked Tesla again; set follow intent on Tesla toward the cow. Hunger 19, health 20, unarmed, empty.
+- 18:25 act: {"say":"Bilbo, midday, unarmed, hunger 19. Tesla, I'll walk with you to the cow in your sight. A spare sword to me when you can.","actions":[],"intent":{"goal":"follow_tesla_to_cow","program":"follow"
+- 18:25 act: {"say":"Bilbo, at the logs now, midday, unarmed, hunger 19. Tesla, I'm in your sight, a few blocks behind. Hungriest first, I'm after Magellan.","actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:25 act: {"say":"Bilbo: no cow here, Tesla. I'll take a log from the oak near -999,83,-2967 by hand, in your reach. Spock, if you have a spare plank, hand it to me when you can.","actions":[{"do":"goto","targe
+- 18:26 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Bilbo: I have one log, making planks now. Tesla, a spare wooden sword to me when you can, I'll stay in your reach."}
+- 18:26 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"break","at":{"x":-998,"y":83,"z":-2968}}],"say":"Bilbo: planks made, sticks made. One more log for a table. Tesla, Magellan, if one of you ha
+- 18:26 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Bilbo: sticks in hand, planks for a table next. Still hoping for a sword from Tesla."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-981,"y":80,"z":-2983}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Bilbo: I have 2 planks and sticks, and a crafting table here. Crafting my own wood
+- 18:26 act: {"actions":[],"say":"Bilbo: I have a wooden sword now, crafted at the table near -981,82,-2984. Thank you both for the sticks and planks. Next I'll look for food with the group."}
+- 18:27 act: {"say":"Bilbo here, hunger 19, unarmed of spare but I hold a wooden sword. Odo saw a cow near -1012, 80, -2970 by the logs. Shall we go there together, armed?","intent":{"goal":"reach_cow_with_group",
+- 18:27 act: {"say":"I'm at the cow spot, -1010, 80, -2970. I see no cow now. Odo, did it wander off? Tesla, Magellan, I'll keep close to you."}
+- 18:28 act: {"say":"Thank you, Magellan. I'll make planks from this log now, and then we need a table near the logs.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 18:28 act: {"say":"I have 4 planks. I'll make a table here by the logs, so we can make tools close to the wood.","actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 18:28 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["directly_addressed","precond
+- 18:29 act: {"say":"I have four oak logs now. Making planks; then tools at the table.","actions":[{"do":"craft","item":"oak_planks","count":8}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":80,"z":-2968}},{"do":"craft","item":"wooden_axe","count":1}],"say":"Going to the table to make an axe for the logs."}
+- 18:29 act: {"say":"I have an axe now. Hunger is 18. I'll walk a short way out with you to look for a cow, and come back.","intent":{"goal":"find_cow_near_group","program":"explore","arguments":{"legs":2,"leg_blo
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-1008,"y":78,"z":-2987}}],"say":"Some items lie on the ground to the south. I'm going to see what they are."}
+- 18:29 act: {"say":"The items were oak saplings, not food. No cow yet. Tesla, where is your group? I'll come back to you before dusk.","actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:29 act: {"say":"Leia, I'm at hunger 18 and have nothing to eat. I can trade you oak planks or logs for the chicken, or share what I have. Could you give it to me?"}
+- 18:30 act: {"say":"I'm at the table with you, Tesla. Dusk is near, so we stay together here, armed. Leia, the chicken would help us all.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 18:30 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Planks are done. I'm making a pickaxe for mining stone, here at the table. Leia, I still ho
+- 18:31 act: {"actions":[],"say":"Dusk is here. Anne, I can spare a plank when you come into reach. Tesla, Leia, we stay at the table together tonight, armed. Leia, I'll say your name at hunger 6."}
+- 18:31 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Here's a plank for you, Anne. We stay together till light."}
+- 18:33 act: {"actions":[],"say":"Night, armed, at the table. Anne, I can't see you from here, so the plank didn't reach you. Come within sight and say so, and I'll hand it over. Boudicca, welcome."}
+- 18:37 act: {"actions":[],"say":"Mobs are close and I took a blast, health 10. Tesla, Magellan, Leia, I'm staying by the table with you. Hit anything that comes at us."}
+- 18:38 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Anne, here's your plank. Stay close."}
+- 18:38 act: {"actions":[],"say":"The plank went to Leia by mistake. Leia, please pass it to Anne. Everyone stay by the table until light."}
+- 18:42 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Morning. Anne, I'm giving you one plank now. Everyone: I need a cow too, hunger 17. Once Anne has her plank, I'll go w
+- 18:42 act: {"actions":[],"say":"Leia, the give to Anne went to you again. You now hold one oak plank from me. Please pass it to Anne, and keep the chicken for the lowest hunger. I will stop giving for now."}
+- 18:43 act: {"actions":[],"say":"Sacagawea, yes, let's go. I'm heading to the oak logs to the south-west to look for a cow. Stay in sight of me. Magellan, I have two planks left and Leia holds one meant for Anne.
+- 18:43 act: {"actions":[],"say":"Boudicca, no cow in sight at the logs yet. I'm going to explore a little to the west in daylight, and I'll call out if I see one.","intent":{"goal":"explore_for_cow","program":"ex
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-1032,"y":80,"z":-2968}}],"say":"Everyone, I'm walking west slowly to the grass past the logs. Stay in sight. Call out at any cow, pig or chicken."}
+- 18:45 act: {"actions":[],"say":"Sacagawea, Tesla, I'm still at -1032,79,-2968 with no cow in sight. Leia, keep the chicken for the hungriest. I'll call out the moment I see a cow, and I'll start digging a dirt s
+- 18:49 act: {"say":"Bilbo, at -1032,79,-2968, hunger 17, no cow in sight yet. I'm digging dirt for a shelter here; I'll call out at any cow.","intent":{"goal":"gather_dirt_for_shelter","program":"gather","argumen
+- 18:50 act: {"say":"Bilbo: I have 29 dirt and I'm building a dirt shelter here at -1040,70,-2968 before night. A bow was drawn to the southwest, so keep watch.","intent":{"goal":"build_dirt_shelter","program":"bu
+- 18:51 act: {"say":"It is dark and I am in my sealed shelter. I will sleep here.","actions":[{"do":"sleep"}]}
+- 18:55 act: {"say":"Bilbo, morning. Hunger 17, health 10.8. I'm getting out of my shelter to look for a cow. Anyone near, call out.","intent":{"goal":"find_cow_at_dawn","program":"explore","arguments":{"legs":2,"
+- 18:55 act: {"say":"Bilbo: no cow in sight here. I'm going back toward the logs and the cow spot near -1010,80,-2970, calling out as I go.","intent":{"goal":"return_to_cow_spot","program":"travel","arguments":{"t
+- 18:56 act: {"actions":[{"do":"note","text":"Day 1167 morning. Travelled to the cow spot at -1010,80,-2971 with the group. No cow in sight yet. Hunger 17, health 10.8."}],"say":"Bilbo: morning, hunger 17. I'm at 
+- 18:56 act: {"actions":[{"do":"goto","target":{"x":-1017,"y":79,"z":-3016}},{"do":"attack","target":"chicken"}],"say":"Bilbo: a chicken to the west at -1018,79,-3016. I'm going for it with my sword. Spock, Curie,
+- 18:56 act: {"actions":[{"do":"eat"}],"say":"Bilbo: I got the chicken and I'm eating it now. Thank you, all who searched with me."}
+- 18:56 act: {"actions":[],"say":"Bilbo: I'll keep the raw chicken until hunger is 6. Now I'm looking for a cow to the west, calling out if I see one.","intent":{"goal":"find_cow_west","program":"explore","argumen
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-1030,"y":71,"z":-3066}},{"do":"attack","target":"cow"}],"say":"Bilbo: a cow at -1031,71,-3068, I'm going for it now with my sword. Shout if you're near.","inten
+- 18:57 say: {"text":"Bilbo: I got a cow at -1031,71,-3068, beef and leather. Thank you, group. I'll share the meat when hunger is low."}
+- 19:05 act: {"actions":[],"say":"Bilbo: dusk, out here alone. Building a dirt shelter where I stand. If anyone is near, call out.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"
+- 19:05 act: {"actions":[{"do":"mine","block":"dirt","count":10}],"say":"Bilbo: out of dirt, short 10 blocks. Mining more from the patch here, then I'll finish the shelter."}
+- 19:06 act: {"intent":{"goal":"build_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:14 act: {"intent":{"goal":"reseal_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 19:25 act: {"intent":{"goal":"cover_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_bloc
+- 19:37 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"Skeleton south of me. Fighting it."}
+- 19:39 act: {"actions":[],"say":"Bilbo here. I died to skeleton arrows and woke with nothing. Hungry and empty-handed. Can anyone spare food or a tool?"}
+- 19:41 act: {"actions":[{"do":"mine","block":"birch_log","count":4}]}
+- 19:41 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"crafting_table","count":1}]}
+- 19:41 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-1035,"y":69,"z":-3066}}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-1036,"y":70,"z":-3066}},{"do":"goto","target":{"x":-1031,"y":69,"z":-3066}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-1020,"y":71,"z":-3055}}],"say":"A skeleton is shooting at me from the southwest. I am pulling back east.","intent":{"goal":"get_clear_of_archer","program":"trav
+- 19:45 act: {"actions":[{"do":"note","text":"Dusk. In the open with 12 dirt. Gathering more dirt for a shelter."}],"intent":{"goal":"gather_dirt_for_shelter","program":"gather","arguments":{"block":"dirt","count"
+- 19:45 act: {"actions":[{"do":"note","text":"Night. Building a dirt shelter with 29 dirt."}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":[
+- 19:49 act: {"actions":[{"do":"note","text":"Morning. Exploring for animals to eat."}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-1000,"y":81,"z":-3128}}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal
+- 19:53 act: {"actions":[{"do":"unstick"}]}
+- 19:53 act: {"actions":[{"do":"note","text":"Free of the cobblestone ruin at -1023,81,-3128. No food seen yet. Exploring again."}],"intent":{"goal":"find_food_and_animals","program":"explore","arguments":{"legs":
+- 19:54 act: {"intent":{"goal":"join_cow_group","program":"travel","arguments":{"target":{"x":-1012,"y":80,"z":-2970}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 19:55 act: {"say":"Bilbo, at the cow spot, health 20, hunger 20. I have 2 oak planks and 6 sticks to share. Who has seen a cow nearby?","intent":{"goal":"pick_up_east_item","program":"travel","arguments":{"targe
+- 19:59 act: {"say":"Bilbo at dusk, health 20, hunger 20. No cow seen today. I'm going back to the table to stay with the group for the night. I have 2 oak planks and 6 sticks to share in the morning.","intent":{"
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-1012,"y":80,"z":-2970}}],"say":"Bilbo, dawn, hunger 20, health 20, armed. Walking to the cow spot with the group; I'll call out if I see any cow, pig or sheep."
+- 20:08 act: {"actions":[],"say":"Bilbo at the cow spot with Knope, Leia, Furiosa, Reynolds, Janeway, Troi. No cow in sight. I'll walk a short loop out and back and call out any cow, pig or sheep.","intent":{"goal
+- 20:12 act: {"actions":[],"say":"Bilbo, midday, hunger 20, health 20, sword in hand. I have 2 oak planks for Orville's shelter. Orville, say my name when I'm in your reach and I'll hand them over. I'll go to the 
+- 20:17 act: {"actions":[],"say":"Bilbo here, midday turned afternoon, hunger 20, 2 oak planks ready for Orville's shelter. Orville, say my name when I can reach you."}
+- 20:21 act: {"actions":[],"say":"Bilbo: night, outside Orville's full shelter. Building a dirt shelter here with my 19 dirt, mining more as needed. Anyone near, call out.","intent":{"goal":"night_shelter_dirt","p
+- 20:22 act: {"actions":[{"do":"mine","block":"dirt","count":6}],"intent":{"goal":"finish_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpe
+- 20:30 act: {"actions":[],"say":"Bilbo, morning, hunger 20, health 20. Orville, I'm at the cow spot with 2 oak planks for you. Name me when you're in reach and I'll hand them over. Then I'm going cow-hunting."}
+- 20:33 act: {"actions":[],"say":"Orville, I'm Bilbo, I have 2 oak planks for your shelter. I'll wait at the table until you call me."}
+- 20:36 act: {"actions":[],"intent":{"goal":"scout_for_animals","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed","n
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":-1015,"y":79,"z":-2984}}],"say":"Orville, the scout failed and I saw no animals. I'm back at your east cell with the 2 planks. Call my name when I can hand them 
+- 20:36 act: {"actions":[{"do":"give","to":"ag_orville_01","item":"oak_planks","count":2}],"say":"Orville, here are my 2 oak planks for your shelter."}
+- 20:36 act: {"actions":[],"say":"Gave Orville the 2 planks. I still need food and a bed, so if anyone knows where a cow, pig or sheep is, please tell me."}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":-1012,"y":78,"z":-2979}}],"say":"Thanks Orville. I'm stepping out of the east cell so you can seal it. I'm not Tesla."}
+- 20:37 act: {"actions":[],"say":"Has anyone seen a cow, pig, sheep or chicken near here? I have no food and no wool for a bed yet."}
+- 20:39 act: {"actions":[],"say":"Orville, Bilbo at the table, dusk, hunger 20, no bed. I'm after Curie in your queue. I'll stay in sight."}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2972}}],"say":"Skeleton shooting at me from the west. Moving to the table group.","intent":{"goal":"reach_table_group","program":"travel","argu
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2972}}],"say":"Health 4. Going back to the group by the table now."}
+- 20:47 act: {"actions":[],"say":"Orville, I'm at health 4 after skeleton arrows. Please call me for the shelter as soon as you can."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-1004,"y":80,"z":-2973}}],"say":"Going to pick up the item on the ground to the east, in daylight, and back to the table."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-1003,"y":79,"z":-2973}},{"do":"goto","target":{"x":-1000,"y":79,"z":-2970}}]}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-1009,"y":79,"z":-2972}}],"say":"Picked up a sapling and sticks, no food. Health 4, going back to the table with Troi."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":-1011,"y":79,"z":-2971}}],"say":"Bilbo here, health 4, hunger 16, no food. I'll join the cow search with the group and stay near the table."}
+- 21:01 act: {"actions":[],"say":"Orville, Bilbo at the cow-spot table, dusk, health 4, hunger 16, no food, no bed. Name me when there is room in your shelter, I have 2 oak planks for you."}
+- Waking 135: dusk, health 4, hunger 16, no food, no bed. Worker tools were missing before; I sent a general-purpose errand to get into sealed cover (Orville's shelter or any enclosure), eat if possible, and report back. Staying put until it reports.
+- Helper reported back: it had no game tools either, so it did nothing. I am still at -1011,79,-2971, health 4, hunger 16, exposed at night. My own tools do not include the game tools, so I cannot act in the world from here. Next waking: try the game tools again first; if still missing, write handoff and wait.
+- 21:03 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}],"say":"Bilbo here, night, no food, open ground. I'm making planks to get under cover."}
+- 21:03 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":79,"z":-2972}}],"say":"Bilbo at the table, night, hunger 16, health 4, no food. I'll stay in sight and wait for first light and Orville's call."}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-1009,"y":79,"z":-2973}}]}
+- 21:05 act: {"actions":[],"say":"Bilbo, lost from the table after the reflex. Health 4, hunger 16, no food. Anyone near, tell me where you are."}
+- 21:07 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Bilbo, morning, health 4, hunger 16, no food. I'm walking to the group. Whoever holds the spare chicken, I'd be grateful for a share."}
+- 21:11 act: {"say":"Bilbo, midday 1174, health 4, hunger 16, no food. Janeway and Chewie are weaker, so they eat first. Anyone with spare food, I'm next once my hunger is 6 or below. I'm staying at the chest row.
+- 21:16 act: {"actions":[{"do":"eat"}],"say":"Thank you Chewie, I have the chicken. Bilbo, eating it now while hunger is 16, raw, since there is no furnace near. Janeway has the melon."}
+- 21:16 act: {"say":"Chewie, thank you. The raw chicken only eats at hunger 6 or below, so I'm holding it until then. I'm staying here at the chest row, in sight, until dusk."}
+- 21:18 act: {"say":"Bilbo, dusk 1174, health 4, hunger 16, no bed, not enclosed. Zeoyellow, thank you for the melon, if it reaches me. Orville or anyone with a shelter cell, please name me and I'll come in sight.
+- 21:23 act: {"actions":[{"do":"goto","target":"ag_chewie_01"}],"say":"Bilbo, morning 1175, health 6, hunger 17, holding one raw chicken for when hunger is 6. Clark, if the apple is still spare, I'm in sight at th
+- 21:24 act: {"say":"Bilbo at the chest row, health 6, hunger 17, holding one raw chicken for when hunger hits 6. Clark, I'm in sight here if the apple is free. Orville, name a cell and I'll bring my 4 dirt."}
+- 21:27 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Picard, Bilbo here, health 6, hunger 17. I'm stepping to you now. If Chewie is still without food, give the beef to Chewie first and I'll take
+- 21:27 act: {"actions":[],"say":"Picard, Bilbo, I'm in your reach now, health 6, hunger 17. Please give the beef to me if Chewie has none, or tell me if Chewie got it."}
+- 21:29 act: {"actions":[{"do":"craft","item":"birch_planks","count":8}],"say":"Dusk, Bilbo at the chest row, health 6, hunger 17, not enclosed. Picard, did the beef go to Chewie? If it's still spare, I'm in your 
+- 21:29 act: {"actions":[],"say":"Bilbo, dusk, health 6, hunger 17. I have 8 birch planks and 4 dirt, enough for a small wall, not a roof. Leia, Orville: name one open cell next to your wall and I'll come in sight
+- 21:31 say: {"text":"Bilbo here, dusk, health 6.7, hunger 20, still open. Leia, Orville: name one exact open cell beside your wall and I'll place my 8 planks there. Janeway goes first on food."}
+- 21:31 act: {"intent":{"goal":"seek_sealed_cover","program":"follow","arguments":{"target":"ag_orville_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 21:31 say: {"text":"Bilbo, in reach, 8 planks and 4 dirt ready. Leia or Orville, name one exact x,y,z and I'll place it and stand inside. Picard, I don't see the beef in my pack yet."}
+- 21:34 say: {"text":"Bilbo, morning, health 9, hunger 17. Picard, my pack shows no beef yet, only one raw chicken. Janeway, glad you're fed. Next dusk I'll build my own cell from planks and dirt, and I'll name it
+- 21:38 say: {"text":"Bilbo, midday, health 9, hunger 17. Wesley is weakest after Janeway: I hold 8 birch planks. Wesley, if you're in my reach and alone, say your name and I'll hand you 4 planks for your wall. I'
+- 21:38 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}]}
+- 21:38 say: {"text":"Bilbo walking to you, Wesley, to hand over 4 birch planks at the pit edge."}
+- 21:38 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"birch_planks","count":4}],"say":null}
+- 21:38 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"birch_planks","count":4}]}
+- 21:38 say: {"text":"Wesley, my give is blocked by Balboa and Kira standing by the toss line. Step to a clear spot in my reach and say your name; I'll hand over the 4 planks from there."}
+- 21:40 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"birch_planks","count":4}],"intent":{"goal":"hold_for_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
+- 21:41 say: {"text":"Bilbo: gave Wesley 4 birch planks, it worked. I hold 4 planks and 4 dirt for my own cell before dusk. Anyone with a spare wall block, name a cell and I'll stand in it."}
+- 21:46 say: {"text":"Bilbo, night 1176, health 9, hunger 17. I hold 4 birch planks and 4 dirt. Janeway or Orville: name one exact open x,y,z near your wall and I'll place it there, then stand inside with you."}
+- 21:48 say: {"text":"Bilbo, morning 1176, health 9, hunger 17. I got through the night outside. I'll walk to the Stores hall with Doc's group for free food, weakest first, and keep my 4 planks for a named cell."}
+- 21:49 say: {"text":"Bilbo: Janeway, you hold 2 chicken, so eat one when your hunger allows. I hold one raw chicken for whoever is weakest once hunger drops. Doc, I'll walk to the Stores hall in your sight if you
+- 21:50 say: {"text":"Bilbo: Janeway, I'll hold my 4 planks and 4 dirt for a cell you name. Knope, I'll walk to the Stores hall in sight of your group. Doc, say when you go."}
+- 21:50 say: {"text":"Bilbo, midday 1176, health 9, hunger 17. Picard, stand where I can see you and name your exact x,y,z. I'll place one plank there and keep 3 planks and 4 dirt for my own cell."}
+- 21:57 say: {"text":"Bilbo, afternoon 1177, health 9, hunger 17, open, no cell. Sacagawea or Hypatia: name one exact open cell beside your wall that I can reach, and I'll place my planks and stand inside before d
+- 21:57 say: {"text":"Bilbo: walking to the cell at -944,78,-3005 now, in Sacagawea's sight. Hypatia, thank you. Chewie, you go first, I'll follow."}
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3005}}],"intent":{"goal":"reach_shelter_cell","program":"travel","arguments":{"target":{"x":-944,"y":78,"z":-3005}},"wake_on":["goal_completed",
+- 21:58 say: {"text":"Bilbo, dusk 1176, in the cell at -944,78,-3005 with Sacagawea and Chewie. View shows one gap on my right, to the west. Sacagawea, name the exact open x,y,z of that gap and I'll place a plank 
+- 21:58 say: {"text":"Bilbo, dusk 1176, health 9, hunger 17, standing at -945,78,-3005 just west of Chewie's cell. Chewie or Sacagawea: name the exact open cell next to me that closes the gap, and I'll place my pl
+- 21:59 say: {"text":"Bilbo, night 1176, health 9, hunger 17. I'm holding still at -945,78,-3005 in the group's sight. I can't verify a gap here, so I'll keep my 4 planks until someone names an exact open cell."}
+- 22:03 say: {"text":"Bilbo, morning 1177, health 9, hunger 17, at -945,78,-3005. Name one exact open cell and I'll place a plank there."}
+- 22:04 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"chicken","count":1}],"say":"Chewie, I'm giving you my raw chicken. I can't eat it at hunger 17. I'll come to the Stores hall with you in daylight."
+- 22:04 say: {"text":"Bilbo: Chewie is out of sight, so my chicken is still with me. Janeway is beside me, hunger is 17 for me. Whoever is weakest and in reach, say so and I'll hand it over."}
+- 22:05 act: {"intent":{"goal":"follow_chewie_stores","program":"follow","arguments":{"target":"ag_chewie_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- 22:06 act: {"actions":[{"do":"goto","target":{"x":-930,"y":78,"z":-3035}}],"say":"Bilbo going to the Stores hall now with the group, chicken in my pack for Chewie."}
+- 22:07 say: {"text":"Bilbo at the Stores hall chests. I hold one raw chicken for the weakest in reach. Chewie, say when you're in my reach."}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3038}},{"do":"open","at":{"x":-928,"y":71,"z":-3039}}]}
+- 22:09 act: {"actions":[{"do":"open","at":{"x":-928,"y":71,"z":-3039}}],"say":"Bilbo at the chests, hunger 17. Holding one raw chicken for the weakest in reach. Chewie, step into my reach alone and say so."}
+- 22:09 act: {"actions":[],"say":"Bilbo: chest contents not shown to me yet. Chewie, Battuta, Boudicca: anyone with spare food, name yourself. I hold one raw chicken for the weakest."}
+- 22:13 act: {"actions":[],"say":"Bilbo, night 1177, hunger 17, health 9. No bed, not enclosed. Staying at the chests in sight. Chewie is weakest, so he gets the chicken first."}
+- 22:16 act: {"actions":[],"say":"Bilbo, morning 1177, health 9, hunger 17. Spock, thank you. I'm waiting by the chests; I'll step alone into your reach if you name me."}
+- 22:17 act: {"actions":[],"say":"Bilbo, alone here at the Stores chests, health 9, hunger 17. Spock or Ripley, hand me one melon or carrot when you can see me."}
+- 22:18 act: {"actions":[],"say":"Spock, Bilbo here, health 9, alone at the chests. I can't see you; say where you stand and I'll walk to you."}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3035}}],"say":"Bilbo walking alone to Spock, health 9, hunger 17."}
+- 22:19 act: {"actions":[],"say":"Bilbo, alone in your reach, health 9, hunger 17. Spock, one melon slice please."}
+- 22:19 act: {"actions":[],"say":"Thank you Spock, I have 2 melon slices. I'll eat when hunger drops, and pass them on to Han or Gimli if they're weaker."}
+- 22:20 act: {"actions":[],"say":"Bilbo holding 2 melon slices. Gimli and Han, if you're in my reach alone, say your name and I'll give one each. I'll eat when hunger is 6 or below."}
+- 22:21 act: {"actions":[],"say":"Gimli, you're in my reach now. Say your name and I'll give you one melon slice. Han, after him."}
+- 22:22 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"melon_slice","count":1}],"say":"Gimli, here is one melon slice. Han, say your name in my reach and I'll give the other."}
+- 22:22 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"melon_slice","count":1}],"say":"Gimli, Spock is standing close to you, so I'm trying the melon again now."}
+- 22:22 act: {"actions":[],"say":"Gimli, Spock is still within 2 blocks of you, so the melon stays with me. Step a few blocks off from Spock, then say your name again and I'll give it."}
+- 22:22 act: {"actions":[],"say":"Gimli, you are 4.7 blocks away and not in my reach. Step into my reach, with Spock beyond 2 blocks of you, and say your name. The slice is still in my pack."}
+- 22:23 act: {"actions":[],"say":"Gimli, Spock is still 2.8 blocks from me, so I won't hand the melon over yet. Step well clear of him, then say your name once more."}
+- 22:23 act: {"actions":[],"say":"Gimli, good, Spock's slice reached you. I hold 2 melon slices and 4 birch planks for whoever is hungry or building. Odo or Han, step into my reach and say your name."}
+- 22:24 act: {"actions":[],"say":"Odo, Spock is handing you a slice, so I'll hold mine for Han. Han, step into my reach alone and say your name, and I'll give you one melon slice."}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3036}}],"say":"Bilbo, dusk, not sheltered, hunger 17, health 9. I'm moving to the chest row to stay in sight of the group. Legolas, I'll say my 
+- 22:25 act: {"actions":[],"say":"Legolas, I hold 2 melon slices already, so give yours to Odo and Han first. I'm Bilbo, hunger 17. I'll stay here at the chest row in sight of the group tonight."}
+- 22:27 act: {"actions":[],"say":"Trini, thank you. Bilbo, hunger 17, at the chest row in sight. Odo and Han, say your names and I'll give you a melon slice."}
+- 22:35 act: {"actions":[],"say":"Bilbo, dawn 1178, health 9, hunger 17, at the chest row. Battuta, I hold 4 birch planks; say your name alone in my reach and they're yours for a shelter cell. Anne and Sarah eat f
+- 22:37 act: {"actions":[],"say":"Bilbo, health 9, hunger 17. Katniss, thank you for the bread. I'm at the chest row, in sight. Come alone within 2 blocks and I'll take it."}
+- 22:38 act: {"actions":[],"say":"Bilbo, health 9, at the chest row. Riker, I'm the one who needs bread; I'll step clear of the crowd. Watney and Jane, I can't name a cell yet."}
+- 22:44 act: {"actions":[],"say":"Bilbo, dusk 1179, health 9, hunger 17, not sheltered. I hold 4 birch planks. Anyone with a verified open cell in sight, name it and I'll place them. Sarah and Anne eat first."}
+- 22:45 act: {"actions":[],"say":"Bilbo, dusk 1179, health 9. Anne, you're weaker than me: come alone within 2 blocks and say your name, and I'll give you a melon slice. Ripley, I'll take the carrot after her."}
+- 22:48 act: {"actions":[],"say":"Lara, Bilbo here. Billy is still in reach of me, so I'm not taking a give yet. Anne first if she comes alone."}
+- 22:49 act: {"actions":[],"say":"Legolas, Bilbo here. I already hold 2 melon, so I yield my place. Give Odo and Sarah first. I'm still waiting for a verified open cell for my planks."}
+- 23:01 say: {"text":"Bilbo, midday 1179, hunger 17, holding 4 birch planks. Anyone with a named open cell in my sight, say it and I'll place one."}
+- 23:09 say: {"text":"Bilbo, night 1180, hunger 17, 2 melon slices. Anne, if you come alone within my reach and say your name, I'll give you one."}
+- 23:27 say: {"text":"Bilbo, night 1181, hunger 17. Holding at the chests in the group's sight. I have 2 melon and 1 chicken; whoever is weakest and alone in my reach, say your name."}
+- 23:29 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"melon_slice","count":2}],"say":"Bilbo, morning 1181: Furiosa, I'm giving you my 2 melon slices now. Eat them."}
+- 23:29 say: {"text":"Bilbo: Furiosa, I can't see you from here. Walk into my sight, say your spot, and I'll hand you my 2 melon slices."}
+- 23:36 say: {"text":"Bilbo, midday 1181, hunger 17, health 9.3. I hold 2 melon and 1 chicken. Anne or Furiosa: say your name when you stand alone within 2 blocks of me."}
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}}],"intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":{"x":-943,"y":73,"z":-3047}},"wake_on":["directly_addressed","
+- 00:07 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
