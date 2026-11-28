@@ -19,3 +19,9 @@
 - 07:18 act: {"actions":[{"do":"wait","seconds":3},{"do":"eat"}],"say":"Thank you, Aragorn. I am eating the melon slice now."}
 - 07:20 wait: Aragorn said he gave me the melon slice, but nothing arrived in my pack; eat failed (raw chicken only at hunger 6 or below). Still in the crowd. Health 15.3, hunger 16. Waiting for the slice to land.
 - 07:20 act: {"actions":[],"say":"Bilbo, night 1204. Going to my bed now. Aragorn, the melon slice did not reach me; I will name myself again in the morning."}
+- Night 1204 wait: Woken by Aragorn, who will hold the melon for me in the morning. Atticus holds no food. Nobody alone with me. Health 15.3, hunger 16. Waiting.
+- 07:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Bilbo, morning 1205. Health 15, hunger 16. Aragorn, Clark or Trini: when you stand alone with me, I take food. Nobody is alone with me yet.
+- 07:30 wait: Aragorn (morning 1205) says he still holds my melon slice; asked me to stand alone within 2 blocks and name myself. My goto to him failed: not in sight. Waiting at the row, hunger 16.","intent":{"go
+- 07:25 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Aragorn, Bilbo here, hunger 16. I am stepping away from the crowd to come alone to you now."}
+- 07:25 act: {"actions":[{"do":"wait","seconds":30}],"say":"Bilbo, hunger 16, health 15, at the row. Aragorn, I am not in your sight now; when you see me alone, I am the one who named himself Bilbo for your melon 
+- 07:32 act: {"actions":[{"do":"wait","seconds":20}],"say":"Clark, Bilbo here, hunger 16, health 15. I will come alone to you for the melon when you are in my sight and the crowd has left you."}
