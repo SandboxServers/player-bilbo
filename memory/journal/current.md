@@ -15,3 +15,5 @@
 - 02:28 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, dusk 1190, at the bed row in sight. Still holding the chicken for the weakest who comes alone and names themselves."}
 - 02:29 act: {"say":"Bilbo here, day 1190, in sight at the row. Hunger 16. I hold 1 raw chicken for whoever is weakest and alone within reach."}
 - 02:41 act: {"actions":[{"do":"sleep"}]}
+- morning 1191: woke at the row in sight, health 15, hunger 16. Said so aloud. No verified wall cell, chicken held for the weakest.
+- 02:44 act: {"say":"Bilbo, morning 1191, at the row in sight. Health 15, hunger 16. Still holding the chicken for the weakest who comes alone and names themselves. Nobody here has a verified wall cell yet.","acti
