@@ -61,3 +61,9 @@
 - 09:48 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Sattler. Bilbo here, I am waiting for the melon slice to land in my pack."}
 - 09:48 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sattler. The melon slice is in my hand and I am eating it now."}
 - 09:48 act: {"actions":[{"do":"wait","seconds":60}],"say":"Thank you, Sattler. The melon helped. Bilbo, hunger 18, health 15. Whoever stands alone in my reach with food, I take it. Thank you."}
+- 09:52 wait: Sun low, bright, not enclosed, health 17.3, hunger 17. Sattler adjacent, Fogg and Billy nearby. Said I need a sealed cell before dark; holding rest intent in sight.
+- 09:50 act: {"say":"Bilbo here, at the bed row. Sun is low. Does anyone know a sealed cell I can use before dark?","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 09:54 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sattler. I am eating the melon slice now. Bilbo, hunger 17, health 17."}
+- 09:58 act: {"say":"Bilbo, midday 1212. Health 20, hunger 16. I stay at the bed row in sight, nobody alone. I still hold 1 chicken for the weakest, and 4 birch planks for a verified open cell.","intent":{"goal":"
+- 10:01 act: {"say":"Sattler, Bilbo here. My hunger is 16 and I have no food but one chicken I am saving for the weakest. If your melon offer still stands, I would be grateful."}
+- 10:01 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sattler. I will eat it now."}
