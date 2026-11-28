@@ -36,3 +36,4 @@
 - 07:41 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack, Bilbo here, I take your melon slice. Thank you."}
 - 07:41 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3056}}],"say":"Zack, Bilbo. I am stepping north, away from Lara and Odo, to -957,-3056. Come alone to me there for the melon."}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3053}}],"say":"Bilbo, dusk 1205. Health 15, hunger 16. Zack, if you still want to hand over the melon, come alone to me tomorrow morning. I am g
+- 07:44 act: {"actions":[{"do":"sleep"}],"say":"Bilbo, dusk 1205, health 15, hunger 16. Going to sleep in the bed row, in the group's sight."}
